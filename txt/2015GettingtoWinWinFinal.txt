@@ -1,0 +1,2413 @@
+Getting to Win-Win
+
+The Use of Body-Worn 
+
+Cameras in Virginia Policing
+
+ACLU of Virginia Board of Directors
+
+Executive Committee
+Jeff Kerr, President
+
+Jayne Barnard, Immediate Past President
+
+Steve Levinson, Vice President
+
+Libby Witt, Secretary
+
+Sandy Smith, Treasurer
+
+Ed Rosenthal, Legal Panel Chair
+
+Liz Gilchrist, National Board Representative
+
+Patrick Anderson
+David Baluarte
+Sheyna Burt
+Stew Dunn
+Howard Gholson
+Lavonda Graham-Williams
+Vivian Hamilton
+Jim Heilman
+Greg Hicks
+Waldo Jaquith
+Victoria Kidd
+Kim Lettner
+
+Art Miller
+James Morton
+John Neal
+Aida Pacheco
+Ron Passmore
+Jerry Peters
+Wornie Reed
+Alan Rudnick
+Jay Sinha
+Fay Slotnick
+Marion Stillson
+Leslie Vandivere
+
+Barbara Ziony
+
+ACLU of Virginia Staff
+
+Claire Guthrie Gastañaga, Executive Director
+
+Elizabeth Wong, Deputy Director
+
+Valerie Jones-Fleming, Office Manager
+
+Rebecca Glenberg, Legal Director
+Hope Amezquita, Staff Attorney
+
+Robert Poggenklass, Tony Dunn Legal Fellow
+
+Gail Deady, The Secular Society Women’s Rights Legal Fellow
+
+Samantha Artison, Paralegal
+
+Liz Musselman, Director of Philanthropy
+
+Bill Farrar, APR, Director of Public Policy and Communications
+
+Katherine Greenier, Reproductive Freedom Project Director
+Tamara Mason, Fund and Membership Development Assistant
+
+The principal author of this report is Frank Knaack, immediate past Director of Public Policy and 
+Communications of the ACLU of Virginia.  ACLU of Virginia intern Jack Lohmann made significant 
+contributions to the research and data analysis underlying the findings.  ACLU of Virginia staff mem-
+bers Rob Poggenklass, Bill Farrar, Elizabeth Wong, and Claire Guthrie Gastañaga also contributed.  
+We were fortunate to have the support and guidance of ACLU national office staff during this project, 
+including Jay Stanley and Chad Marlow. 
+
+This report is copyrighted 2015 by the ACLU Foundation of Virginia, Inc. Information from the report 
+may be used freely so long as proper attribution is made.
+
+Table of Contents 
+
+Getting to Win-Win: Executive Summary __________________________________________  2 
+
+Getting to Win-Win: The Cultural and Legal Context _________________________________  6 
+
+Getting to Win-Win: The Need for Statewide Uniformity  _____________________________  9 
+
+Getting to Win-Win: Changes Needed in Local Policies and State Model ________________  11 
+
+Protecting the Liberty, Rights, and Privacy of Individual Virginians  _________________________  11 
+
+Protecting the Public’s Right to Know _________________________________________________  18 
+
+Assuring Accountability ____________________________________________________________  23 
+
+Conclusion __________________________________________________________________  28 
+
+Methodology  _______________________________________________________________  30 
+
+Appendix A: DCJS Model Body Worn Camera Policy  ________________________________  40 
+
+Appendix B: ACLU of Virginia Model Body Worn Camera Policy _______________________  40 
+
+Appendix C: Freedom of Information Act Request Sent to Local Law Enforcement Regarding 
+Body Worn Cameras __________________________________________________________  40 
+
+Appendix D: 25 Questions Used to Review Body Worn Camera Policies _________________  40 
+
+Appendix E: Summaries of Local Body Worn Camera Policies _________________________  40 
+
+Protecting the Liberty, Rights and Privacy of Individual Virginians __________________________  40 
+
+Protecting the Public’s Right to Know _________________________________________________  40 
+
+Assuring Accountability ____________________________________________________________  40 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+1 
+
+BWCs 
+
+require 
+
+specific, 
+
+As with many technological 
+advances in policing, however, 
+the deployment of this 
+technology without proper 
+safeguards and the right 
+policies in place can turn a tool 
+meant to promote police 
+accountability into a tool that 
+expands the surveillance state. 
+
+Getting to Win-Win: Executive Summary 
+ 
+Body  worn  cameras  (BWCs)  are  cameras  worn  on 
+police officers’ bodies that record audio and video of 
+officers’ 
+interactions  with  the  public  from  the 
+officers’  perspective.  Many  of  the  issues  of  data 
+retention  and  access  associated  with  use  of  BWCs 
+are  largely  the  same  as  with  dash  cameras,  aerial 
+surveillance  video  collected  by  drones,  and  data 
+from any other law enforcement deployed recording 
+devices. 
+special 
+consideration, however, because they can be used to 
+record  individuals  in  public  and  private  settings 
+without  the  individual  or  the  public’s  knowledge.  Moreover,  their  ability  to  provide  the 
+“officer’s eye view” of an interaction with a member or members of the public can make the 
+data they acquire of particular interest to the public when either the conduct of police or 
+community  members  is  in  question.  As  with  many  technological  advances  in  policing, 
+however,  the  deployment  of  this  technology  without  proper  safeguards  and  the  right 
+policies  in  place  can  turn  a  tool  meant  to  promote  police  accountability  into  a  tool  that 
+expands the surveillance state.  
+ 
+On  May  1,  2015,  the  U.S.  Department  of  Justice  announced  the  establishment  of  a  $20 
+million  Body-Worn  Cameras  Pilot  Partnership  Program.1  It  followed  the  rush  of 
+departments seeking to obtain and deploy BWCs after the shooting death of Michael Brown 
+in Ferguson, Missouri.2 Some touted BWCs as the solution to the problem of police violence 
+in America.3 While deployment of BWCs will not end police violence, it has the potential to 
+help  law  enforcement  departments  become  more  transparent,  accountable,  and  trusted, 
+but if, and only if, the right policies are in place to guide deployment.  
+ 
+Virginia has followed the post-Ferguson trend toward increased use of BWCs.4 Indeed, five 
+Virginia  localities  (the  cities  of  Newport  News,  Waynesboro,  Lynchburg,  and  Fairfax  and 
+Dinwiddie  County)  have  now  received  $500,000  in  grants  under  the  federal  partnership 
+program. 
+ 
+Given  the  public  interest  in  assuring  deployment  of  BWCs  serves  both  the  interests  of 
+Virginians and the police who serve them, the ACLU of Virginia initiated a project to gather 
+and report  to  the  public information  on the  use  of BWCs by law enforcement agencies in 
+the  Commonwealth.  That  project  has  now  led  to  the  publication  of  this  report  and 
+recommendations regarding the use of BWCs in Virginia.  
+ 
+To  understand  the  use  of  BWCs  in  Virginia,  the  ACLU  of  Virginia  sent  a  Freedom  of 
+Information  Act  (FOIA)  request  to  368  local  law  enforcement  agencies  to  collect  existing 
+policies for review. We received and reviewed fifty-nine local policies in response to these 
+requests.  For  more  information  on  the  methodology  used  to  gather  and  review  the  data, 
+please see the Methodology section of this report below.   
+
+ 
+
+2 
+
+We  also  reviewed  the  Department  of  Criminal  Justice  Services’  “model”  BWC  Policy 
+(developed  with  the  participation  of  law  enforcement  but  no  citizen  stakeholder 
+input)(DCJS  BWC  Policy)  that  was  presented  in  draft  form  to  the  Law  Enforcement 
+Technology subpanel of the Secure Commonwealth Panel at its meeting on September 15, 
+2015. The DCJS BWC Policy is attached to this report as Appendix A. 
+ 
+
+BWC implementation in 
+Virginia is inconsistent at 
+best, chaotic at worst. 
+There are vast disparities 
+from jurisdiction to 
+jurisdiction that make it 
+difficult, if not impossible, 
+for Virginians to know how 
+BWCs are being used and 
+what their rights are. 
+
+The ACLU of Virginia has determined from the review of 
+existing local policies and the “model” proposed by DCJS 
+that  BWC  implementation  in  Virginia  is  inconsistent  at 
+best,  chaotic  at  worst.  There  are  vast  disparities  from 
+jurisdiction  to  jurisdiction  that  make  it  difficult,  if  not 
+impossible, for Virginians to know how BWCs are being 
+used  and  what  their  rights  are.  Virginians  now  face  a 
+bewildering array of policies governing the use of BWCs, 
+as well as the retention and disclosure of the personally 
+identifiable  data  acquired  through  their  use.  This 
+situation  is  further  complicated  by  an  advisory  opinion 
+issued  by  the  Virginia  Freedom  of  Information  Act 
+Advisory Council on October 2, 2015. The advisory opinion concludes that  FOIA imposes 
+different disclosure rules on local police and Sheriffs than apply to other law enforcement 
+agencies,  and  it    includes  no  discussion  of  the  possible  interplay  between  FOIA  and  the 
+Government  Data  Collection  and  Dissemination  Practices  Act  with  regard  to  law 
+enforcement collection and dissemination of personally identifiable information.5  
+ 
+Key  gaps  between  policy  and  principle  identified  in  our  review  that  threaten  individual 
+liberty include: 
+
+  Only 3% of BWC policies now in place require officers to inform the public that 
+they  are  being  recorded.  The  DCJS  BWC  Policy  only  requires  officers  to  inform 
+the public where “practical.” 
+
+  Only 5% of BWC policies now in place require officers to allow a victim of crime 
+to decline to be filmed. The DCJS BWC Policy does not require officers to allow a 
+victim to decline to be filmed. 
+
+  Only  3%  of  BWC  policies  now  in  place  prohibit  the  use  of  BWC  to  record  First 
+Amendment protected activities such as peaceful protests. The DCJS BWC Policy 
+does not prohibit filming First Amendment-protected activities. 
+
+  Only  5%  of  BWC  policies  now  in  place  address  BWC  usage  on  school  grounds. 
+
+The DCJS BWC Policy does not address usage of BWCs on school grounds. 
+
+  Only  12%  of  BWC  polices  now  in  place  prohibit  the  use  of  BWCs  in  a  private 
+residence if the resident objects. The DCJS BWC Policy does not prohibit use of 
+BWCs in a private residence if the resident objects. 
+
+ 
+To address these gaps and bring uniformity to the implementation of BWCs across Virginia, 
+this report sets out arguments in favor of statewide uniformity and recommended policies 
+in four key areas. These include: 
+
+ 
+
+3 
+
+  Rules  governing  when 
+
+law  enforcement  officers  are  recording  civilian 
+
+encounters and what notice requirements govern their deployment; 
+
+  Rules governing how long data is stored; 
+  Rules  and  laws  governing  individual  and  public  access  to  data  collected  by 
+
+BWCs; and 
+
+  Rules  governing  consequences  of  failure  to  comply  with  provisions  of  policies 
+assuring transparency and accountability in the use of BWCs, including possible 
+decertification as a law enforcement officer. 
+
+ 
+Proponents of BWCs argue that they can serve as a tool to 
+increase  law  enforcement  transparency,  accountability, 
+and trust. The ACLU of Virginia believes that the decision 
+whether to acquire and deploy BWCs should be made by 
+law  enforcement  agencies  with 
+local  and  state 
+appropriate 
+the 
+communities  they  serve.  At  the  same  time,  however,  the 
+ACLU  of  Virginia  believes  strongly  that  deployment  of 
+BWCs can serve the interests of police and the public only 
+if proper policies are in place to guide their use. The ACLU of Virginia has advocated before 
+the Fairfax County Ad Hoc Police Review Commission and the Law Enforcement Subpanel 
+of  the  Secure  Commonwealth  Panel  that  the  following  principles  guide  law  enforcement 
+use of BWCs:  
+
+The ACLU of Virginia 
+believes strongly that 
+deployment of BWCs can 
+serve the interests of 
+police and the public only 
+if proper policies are in 
+place to guide their use. 
+
+participation 
+
+input 
+
+and 
+
+from 
+
+  Policies  must  prohibit  use  of  body-worn  cameras  to  gather  information  about 
+people surreptitiously. They should not be turned on at public events to surveil 
+those in attendance. 
+ 
+
+  Only officers with arrest authority should be authorized to use BWCs.  
+
+ 
+
+  Officers must be required to notify people when the cameras are on and they are 
+
+being recorded.  
+ 
+
+  Policies should protect the privacy of officers by making clear that cameras are 
+
+only required to be turned on during defined interactions with the public. 
+ 
+
+  Policies  should  be  explicit  about  when  cameras  are  to  be  turned  on  and  when 
+and whether they can be turned off. Officers should have no discretion to deviate 
+from departmental policy. 
+ 
+
+  Policies  should  require  that  every  officer  wearing  cameras  turn  the  recording 
+device on at the inception of every law enforcement encounter with a member of 
+the  public,  including  stops,  frisks,  searches,  arrests,  consensual  searches  and 
+interviews,  enforcement  actions  and  any  encounter 
+that  becomes 
+confrontational or in any way hostile. 
+ 
+
+ 
+
+4 
+
+  People  who  are  being  filmed  should  have  the  right  to  request  that  BWCs  be 
+turned off when the officer is entering their home or business, hospital room or 
+other private location or when they are seeking to make an anonymous report of 
+a  crime  or  claim  to  be  a  victim  of  crime.  Their  request  should  be  filmed.  In 
+addition,  policies  should  include  specific  guidelines  for  recording  juveniles  and 
+in schools.  
+ 
+
+  Strict policies should guide how the recorded information is uploaded from the 
+
+individual camera and stored so that videos cannot be manipulated or erased. 
+ 
+
+ 
+
+  Data  should  be  retained  only  as  long  as  necessary  for  intended  purposes.  It 
+should  be  maintained  and  destroyed  pursuant  to  applicable  law  and  record 
+retention policies and never by the officer involved in the recording.  
+ 
+
+  Videos of specific value  should be  “flagged” and retained for as  long  as  needed 
+for  personnel  actions  or  criminal  investigations.  Those  with  no  ascertainable 
+value should be deleted in accordance with a published schedule except on the 
+request  of  a  data  subject.  Flagging  should  occur  automatically  for  incidents 
+involving  the  use  of  force,  leading  to  detention,  summons,  or  arrest,  and/or 
+resulting in a citizen complaint. 
+ 
+
+  Policies should provide access to the videos by the people recorded for as long as 
+the  videos  are  maintained  by  the  government/law  enforcement.  Properly 
+redacted footage should be made available to the public in accordance with well-
+defined guidelines, where the public interest would be served by disclosure.  
+ 
+
+  Failure  to  comply  with  the  policies  governing  use  of  the  cameras  and  videos 
+
+should result in appropriate disciplinary action, including termination. 
+
+As a whole, the 59 local agency 
+BWC policies and the DCJS 
+BWC Policy that the ACLU of 
+Virginia analyzed fail to ensure 
+that BWCs are deployed in a 
+way that promotes 
+transparency, accountability, 
+and trust. 
+
+ 
+Adherence  to  these  principles  is  essential  to  ensure 
+that  deployment  of  body  worn  cameras  by  state  or 
+local police agencies is truly a win-win for the police 
+and the public alike. Unfortunately, our review found 
+that  neither  the  local  policies  now  in  place  nor  the 
+DCJS BWC Policy comply fully with these principles. 
+In addition, in some instances, current FOIA law may 
+stand  in  the  way  of  adopting  local  policies  that 
+comply with these principles in some instances. 
+ 
+
+While some individual policies do a better job in addressing some or all of these principles 
+than others, as a whole, the 59 local agency BWC policies and the DCJS BWC Policy that the 
+ACLU  of  Virginia  analyzed  fail  to  ensure  that  BWCs  are  deployed  in  a  way  that  promotes 
+transparency,  accountability,  and  trust.  The  policies  often  do  not  articulate  clearly  what 
+actions and events should be filmed, and they miss the mark when it comes to protecting 
+the  privacy  of  individuals  in  sensitive  situations.  They  do  not  properly  safeguard  footage 
+
+ 
+
+5 
+
+from inappropriate sharing.  They fail to provide ordinary citizens the access to  their own 
+data to which they are entitled. Finally, they lack mechanisms to hold officers accountable 
+for intentionally or unintentionally violating policy.  
+ 
+To  help  solve  these  problems,  the  ACLU  of  Virginia  developed  its  own  Model  Body  Worn 
+Camera Policy that includes the elements we believe are essential to getting to “win-win,” 
+that  is,  ensuring  that  use  of  BWCs  serves  the  interest  of  both  law  enforcement  and  the 
+public protecting liberty and privacy as  well as assuring accountability and transparency. 
+The  ACLU  Model  Policy  is  attached  as  Appendix  B.  We  recognize  that  implementing  our 
+Model  policy  and  getting  to  win-win  may  require  changes  in  FOIA  and  the  Government 
+Data Collection and Dissemination Practices Act and adoption of laws requiring statewide 
+uniformity  on  certain  policy  elements  to  best  protect  individual  privacy  and  the  public’s 
+right to know. Nonetheless, we believe that Virginia can only get to “win-win” in the use of 
+BWCs if these changes are made and uniform policies adopted statewide. 
+ 
+ 
+Getting to Win-Win: The Cultural and Legal Context 
+ 
+The power of law enforcement is awesome – it has the authority to deprive individuals of 
+their  life  and  liberty.  Particularly  because  of  this  level  of  power,  law  enforcement 
+departments  should  deploy  tools  that  enhance  transparency,  accountability,  and  public 
+trust.  Body  worn  cameras  (BWCs),  if  properly  deployed,  can  help  law  enforcement 
+departments further these aims.    
+ 
+Reasons to Deploy Body-Worn Cameras 
+Deployment of BWCs can: 
+
+  Affect  the  conduct  of  both  community  members  and  law  enforcement  in  a 
+positive way, resulting in greater officer safety, the reduction of the use of force 
+by  law  enforcement,  and  the  reduction  in  the  number  of  complaints  by 
+individuals about law enforcement conduct.6 
+
+ 
+  Provide  communities  an  additional  measure  of  transparency  about  the  way  in 
+
+which they are policed. 
+
+ 
+  Promote  law  enforcement  accountability  by  providing  a  real  time  video  and 
+
+audio record of police/community interactions. 
+
+ 
+  Help  protect  law  enforcement  officers  by  providing  objective  evidence  to  be 
+
+used in resolving complaints and in disciplining officers. 
+
+ 
+BWCs can be an important tool in efforts to develop, protect, and, where necessary, restore 
+trust between law enforcement and the communities that they serve. Their successful use 
+is  dependent,  however,  on  the  existence  and  implementation  of  policies  that  achieve  the 
+goals  outlined  by  the  Police  Executive  Research  Forum  (PERF)  –  fostering  transparency 
+
+ 
+
+6 
+
+and  accountability  and  protecting  civil  liberties  and  privacy  interests.  BWCs  deployed 
+without policies designed to achieve these goals will undercut rather than build trust. 
+ 
+The ACLU of Virginia believes that deployment of BWCs can be a “win” for both the public 
+and police for two reasons. First, the power of law enforcement coupled with a history of 
+abuse  by  some  officers  can  justify  the  use  of  BWCs,  even  when  balancing  the  potential 
+negative  impact  on  residents’  privacy.  Historically,  there  was  no  real-time  documentary 
+evidence  of  most  encounters  between  law  enforcement  and  the  public.  Due  to  the 
+sometimes-volatile  nature  of  those  encounters,  this  often  resulted  in  radically  divergent 
+accounts of incidents. BWCs have the potential to be a neutral arbiter and serve as a check 
+on law enforcement’s power.  
+ 
+Second, while it is too early to tell the true impact of BWCs on police-community relations, 
+some  early  empirical  studies  document  a  positive  trend.7  For  example,  a  study  on  the 
+impact of police and community relations in Rialto, California found that law enforcement 
+use of force fell by 60% during the initial 12-month period of BWC use.8 In addition, public 
+complaints  against  law  enforcement  decreased  by  88%  during  that  period.9  Researchers 
+studying the impact of BWCs in Rialto also found that the likelihood of a law enforcement 
+officer using force was roughly twice as high if the officer was not wearing a BWC.10   
+ 
+Nonetheless,  as  discussed  in  detail  below,  the  positive  impact  of  BWCs  can  only  occur  if 
+policies  are  in  place  that  protect  the  interests  of  both  police  and  the  public.  In  addition, 
+while  studies  suggest  the  potential  positive  impact  regarding  police  and  community 
+relations, the deployment of BWCs should not be viewed as an end in and of itself, but as a 
+tool in achieving transparency and accountability.  
+ 
+BWCs have  the  potential to increase accountability, but will not  solve  the  problem of law 
+enforcement  abuse  or  the  community’s  subsequent  loss  of  trust  in  law  enforcement.. 
+Moreover, as was learned after the videotaped death of Eric Garner in New York City, the 
+existence of cameras does not guarantee positive outcomes.11   
+ 
+The  solution  to  these  important  problems  requires  a  structural  shift  in  the  culture  and 
+mindset of law enforcement and the reassertion of civilian authority over the policies that 
+guide  policing  at  all  levels.  At  the  foundation  of  this  shift  are  the  concepts  and  values  of 
+constitutional policing and respect for the value of human life  -- concepts and values that 
+should be inherent in all law enforcement personnel.  
+ 
+Establishing the Community Culture Needed to Support Effective Use of BWCs 
+Police,  community  members,  and  taxpayers  must  recognize  that  BWCs  are  only  a  tool. 
+Localities should make the choice whether to deploy them using a process that assures the 
+full engagement of community members in the development of the policies that guide their 
+use. 
+ 
+Virginians must recognize that the deployment of body cameras cannot and will not solve 
+problems such as racial profiling, excessive use of force, or other police abuses. Virginians 
+must  recognize  that  law  enforcement  cannot  solve  community  problems  arising  from 
+
+ 
+
+7 
+
+care 
+
+and 
+
+drug 
+
+and 
+
+health 
+
+education, 
+
+treatment, 
+
+poverty, drug use, and other social ills. Society cannot arrest its way out of a public health 
+problem or school discipline issue.  
+ 
+To  address  these  larger  community  problems,  there  must  be  a  holistic  approach  that 
+incorporates 
+economic 
+development.12Communities,  and  the  elected  leaders  who  serve  them,  must  commit  to 
+funding  public  safety  as  a  priority  recognizing  that  underpaid  and  undervalued  police 
+compromise  our  safety.  Public  safety  should  be  seen  as  a  core  function  and  fundamental 
+expense  of  government,  not  a  revenue  stream.  Police  departments  and  the  state  or  local 
+jurisdictions  they  serve  should  not  create,  facilitate,  or  allow  the  development  of  a 
+dependence  on  financial  returns  from  policing  (asset  forfeiture,  “million  dollar  mile,”  red 
+light  cameras  vs.  extended  yellow,  success  measured  by  increased  arrests,  tickets, 
+summonses vs. increase safety outcomes).13  
+ 
+If  a  locality  or  the  Commonwealth  decides  to  purchase  and  deploy  BWCs  on  its  law 
+enforcement personnel, it should do so only if it is committed to funding the program from 
+its general funds and in its base budget. 
+ 
+Establishing the Law Enforcement Culture Needed to Support Effective Use of BWCs 
+In order for BWCs to be an effective tool of accountability and transparency, the culture in 
+the law enforcement agency that deploys them must support both. 
+ 
+There must be a culture of service in the agency. Law enforcement personnel (whether in 
+the  local  police  department,  sheriff’s  office,  or  State  Police)  must  reflect  the  communities 
+they serve.14 They must also see the people in the community not as the “policed” but as the 
+public they serve. 
+ 
+There must be a culture of transparency at all levels in every law enforcement agency. The 
+“default” value in the agency must support openness rather than secrecy. The leadership of 
+the law enforcement agency and all levels of government should take seriously the policy 
+embraced  in  the  Virginia  Freedom  of  Information  Act,  §2.2-3700,  that  the  Act  “shall  be 
+liberally  construed  to  promote  an  increased  awareness  by  all  persons  of  governmental 
+activities  and  afford  every  opportunity  to  citizens  to  witness  the  operations  of 
+government.” Information should be disclosed, rather than withheld, whenever possible. 
+ 
+In addition, law enforcement officials should take seriously the Act’s direction that it should 
+not be “construed to discourage the free discussion by government officials or employees 
+of public matters with the citizens of the Commonwealth.” There should be a willingness to 
+engage  the  public  in  setting  law  enforcement  agency  policies  on  “use  of  force”  and  other 
+policies directly affecting the people being served.15 
+ 
+There  must  be  a  culture  of  accountability.  The  peoples’  authority  should  be  paramount. 
+There  should  be  a  willingness  to  collect  and  report  data  that  permits  evaluation  of 
+departmental  practices  as  has  been  done  voluntarily  by  the  Charlottesville  Police 
+Department.16  There  must  be  openness  to  independent  evaluation  of  outcomes  good  and 
+bad. 
+
+ 
+
+8 
+
+ 
+Finally,  there  must  be  a  culture  of  constitutionality.  Police  must  see  themselves  as  the 
+guardians  of  the  Constitution.  Constitutional  policing  should  be  the  paramount  value  in 
+hiring,  evaluation,  training,  policies  and  procedures,  including  policies  on  “consent 
+searches,” pretextual stops, and use of body-worn cameras and other technologies. A body-
+worn camera can be a tool that supports constitutional policing  if and only if the proper 
+policies and training are in place before cameras are deployed. 17 
+ 
+ 
+Getting to Win-Win: The Need for Statewide Uniformity 
+ 
+Virginians who wish to understand the policies governing the use of BWCs should not be 
+expected to memorize dozens of different policies. Virginians should not need to  seek out 
+and understand various, complicated flagging and retention formulas that vary drastically 
+from one  jurisdiction  to the  next  to  understand how government agencies  maintain their 
+personal  information.  Virginians  should  not  “experience”  the  use  of  BWCs  differently  on 
+one side of a local law enforcement “border” than another. The ACLU of Virginia’s review of 
+the existing BWC policies shows, however, that is exactly what Virginians face today.   
+ 
+In  addition,  law  enforcement  officers  should  be  subject  to  equal  expectations  and  equal 
+discipline  across 
+jurisdictions,  and  there  must  be  uniform  consequences  across 
+jurisdictions for the misuse of the cameras or the data that they collect. 
+ 
+Recommendation  No.  1  –  The  General  Assembly  must  enact  legislation  that  assures 
+policies  governing  BWCs  are  uniform  across  the  Commonwealth  in  each  of  four  key 
+areas: when and how they are activated by  officers; how long the  data they collect is 
+kept; who has access to the data collected; and consequences of failure to comply with 
+law or policy regarding their use. 
+ 
+Virginians  and  the  law  enforcement  personnel  who  serve  them  have  a  right  to  expect 
+uniformity  of  BWC  policy,  regardless  of  jurisdiction  with  respect  to  at  least  the  following 
+issues: 
+ 
+
+  Rules  governing  when 
+
+law  enforcement  officers  are  recording  civilian 
+
+encounters and what notice requirements govern their deployment. 
+ 
+
+  Rules governing what data is stored and for how long. 
+
+ 
+
+ 
+
+  Rules and laws governing public access to data collected by BWCs. 
+
+  Rules governing consequences of failure to comply with BWC policies. 
+
+ 
+The lack of uniformity in the 59 local policies reviewed by the ACLU of Virginia makes clear 
+that Virginia needs to establish certain minimum mandatory criteria for policies governing 
+the use of BWCs by law enforcement agencies choosing to deploy them.  
+
+ 
+
+9 
+
+ 
+In  addition,  the  General  Assembly  should  address  apparent  conflicts  between  the 
+protections offered data subjects under the Government Data Collection and Dissemination 
+Practices  Act,  and  the  retention  and  disclosure  requirements  included  in  other  laws 
+governing  public  records  (FOIA  and  the  state  record  retention  laws  and  policies).  For 
+example,  Section  2.2-3805  gives  data  subjects  the  right  to  review  personally  identifiable 
+information  held by government agencies, and the  limitations of this right  relative  to law 
+enforcement records are unclear.18  
+ 
+Recommendation  No.  2  –  The  General  Assembly  must  enact  legislation  assuring 
+Virginians that violations of state laws and departmental policies governing the use of 
+BWCs do not result in harm to individuals.  
+ 
+BWCs should not be a tool to engage in unchecked surveillance. To minimize the incentive 
+for  engaging  in  mass  surveillance,  the  General  Assembly  should  enact  legislation  that 
+provides  that  any  data collected  or  stored  in  contravention  of  state  law  or  in  violation  of 
+departmental  policy  governing  the  use  of  BWCs  (or  any  other  surveillance  technology) 
+should be immediately destroyed and should not be admissible in any criminal or civil case. 
+ 
+Coupled with the need for effective discipline is the need to ensure that individuals are not 
+harmed  if  a  law  enforcement  officer’s  fails  to  follow  department  policy.  For  example, 
+criminal  defendants  should  have  a  rebuttable  evidentiary  presumption  when  they  assert 
+that exculpatory evidence was destroyed or not captured. In addition, individuals suing the 
+government  should  have  a  rebuttable  evidentiary  presumption  when  they  reasonably 
+assert that evidence supporting their claim was destroyed or not captured.   
+ 
+In  addition, the  General Assembly should consider whether an officer disciplined or fired 
+for failing to  comply  with departmental policies  on the  use of technology that gather and 
+record  personally  identifiable  information,  including  body  cameras,  should  be  subject  to 
+decertification  as  a  law enforcement officer pursuant to Section  15.2-1707 of  the  Code  of 
+Virginia.  Virginians  should  not  be  in  a  position  where  a  noncompliant  officer  is  simply 
+moved  from  department  to  department  because  they  continue  to  be  certified  by  the 
+Commonwealth pursuant to Section 15.2-1706 of the Code of Virginia. 
+ 
+Recommendation  No.  3  –  The  General  Assembly  must  enact  legislation  ensuring  that 
+personally identifiable data collected by BWCs is not disseminated to third parties for 
+non-law enforcement purposes without the subject’s consent, except where such public 
+disclosure is determined in writing to be in the public interest. 
+ 
+The  purpose  of  policies  governing  the  use  of  BWCs  is  to  create  more  transparent, 
+accountable, and trusted law enforcement agencies without infringing unnecessarily on the 
+right of privacy or liberty of Virginians. Data collected by BWCs should not be exploited by 
+law enforcement agencies or third parties for commercial uses. In addition to undermining 
+the purpose of the BWCs, personal information cannot be collected, stored, or disseminated 
+under  the  Data  Act  unless  the  government’s  need  for  such  collection  has  been  clearly 
+
+ 
+
+10 
+
+established in advance and the information is appropriate and relevant for the purpose for 
+which it was collected.19  
+ 
+Law  enforcement  agencies  that  contract  with  third-parties  to  maintain  the  data  should 
+ensure safeguards are in place to protect the data from unauthorized disclosure.  
+ 
+In addition, the General Assembly should enact legislation assuring data subjects the right 
+to review any BWC collected data personally identifiable to them and prohibit third-parties 
+from independently accessing, viewing, or altering the data unless they are acting as agents 
+of  a  law  enforcement  agency  with  which  the  agency  has  contracted  for  data  storage  and 
+maintenance.  
+ 
+Current  law  (FOIA  and  the  Government  Data  Collection  and  Dissemination  Practices  Act) 
+should be amended as needed to ensure that personally identifiable information about data 
+subjects  is  not  released  without  their  consent  unless  the  head  of  the  law  enforcement 
+agency  in  custody  of  the  data  has  determined  in  writing  that  disclosure  is  in  the  public 
+interest and is necessary to assure transparency and accountability for the actions of law 
+enforcement or the data subjects involved.  
+ 
+ 
+Getting to Win-Win: Changes Needed in Local Policies and State Model 
+ 
+Protecting the Liberty, Rights, and Privacy of Individual Virginians 
+As  the  ACLU  of  Virginia’s  analysis  documents,  with  limited  exceptions,  current  BWC 
+policies leave the privacy and First Amendment rights of Virginians in jeopardy. 
+ 
+Recommendation No. 4 – BWC policies must require police to inform people that they 
+are being filmed. 
+ 
+Discussion: 
+BWCs  have  the  potential  to  record  interactions  and  locations  that  members  of  the  public 
+may wish to remain private. Thus, it is important that BWC policies include clear notice and 
+privacy  protections.  To  protect  the  privacy  of  members  of  the  public,  the  deployment  of 
+BWCs should be  limited to uniformed law enforcement officers and those  non-uniformed 
+officers involved in SWAT actions or other planned use of force and enforcement actions. 
+This  recommendation  closely  mirrors  a  recommendation  made  by  the  Police  Executive 
+Research Forum, which justified the importance of notice by pointing out that “[t]he mere 
+knowledge  that  one  is  being  recorded  can  help  promote  civility  during  police-citizen 
+encounters.”20    
+ 
+Law enforcement officers should be required to notify the subject(s) of the recording that 
+they  are  being  recorded  by  the  BWC.  This  notification  should  be  made  as  soon  as 
+reasonably  possible  following  initiation  of  the  encounter.  The  only  exception  to  this 
+mandate  should  be  instances  involving  law  enforcement  pursuits  or  other  exigent 
+
+ 
+
+11 
+
+circumstances  where  the  officer  cannot  reasonably  be  expected  to  provide  immediate 
+notice. In those cases, the officer should provide notice at the first reasonable opportunity.   
+ 
+Law-abiding  Virginians  should  not  fear  that  their  government  is  recording  their  personal 
+conversations or their engagement in First Amendment-protected activities. Yet, the ACLU 
+of  Virginia’s  analysis  of  both  the  DCJS  BWC  Policy  and  the  local  BWC  policies  shows  that 
+this fear has merit in many parts of the Commonwealth. 
+ 
+This is all the more important because current FOIA interpretations regarding disclosure of 
+personally identifiable data appear to compromise personal privacy without benefit to the 
+public’s right to know. 
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key Finding: The DCJS BWC Policy requires officers to provide notice of 
+the use of BWCs only when “practical.”  
+Section  III.E.1  provides  that  officers  “shall  inform  individuals  that  they  are 
+being recorded” “whenever practical.” There is no definition of “practical” in 
+the policy. 
+
+ 
+
+ 
+
+Local Policies 
+
+Key  Finding:  Most  BWC  policies  permit  law  enforcement  officers  to 
+record individuals without notification. 
+Only  two  of  the  59  departments  that  have  deployed  BWCs  require  their 
+officers  to  inform  the  public  that  they  are  being  recorded21  and  one 
+department requires notice only if asked.22 Of the remaining 56 departments, 
+three  encourage  officers  to  provide  notice,23  four  only  provide  notice 
+protection  to  other  members  of  the  department,24  and  four  grant  officers 
+complete  discretion.25 The  policies  that grant  officers discretion  range from 
+suggesting notice is a good idea26 to suggesting notice only be provided if it 
+would assist the officer.27 In addition to the general failure of departments to 
+provide  notice,  only  two  departments  explicitly  state  their  officers  must  be 
+truthful if asked  whether an individual is  being recorded, which makes  one 
+wonder about those policies that don’t make this requirement to be truthful 
+explicit.28  
+
+Virginians deserve to know when BWCs are actively recording them. The rule 
+should  be  that  notice  is  given  unless  exigent  circumstances  prevent  the 
+officer  from  doing  so,  and,  even  then,  notice  should  be  given  as  soon  as 
+possible. 
+
+ 
+Recommendation No. 5 – BWC policies must require police to inform people that they 
+may ask not to be filmed when police enter the privacy of their home (or other location 
+where they have a reasonable expectation of privacy) without a warrant or when they 
+are  crime  victims,  witnesses  who  are  seeking  to  provide  information  to  police 
+confidentially, or they are confidential informants. 
+
+ 
+
+12 
+
+ 
+Discussion: 
+The  importance  of  protecting  the  privacy  of  Virginians  should  lead  all  law  enforcement 
+departments to mandate that people have a right to tell law enforcement to turn cameras 
+off in their homes and other private spaces, and that the police inform them of that right. 
+Notice of the right not to be filmed should be given immediately upon entering a home or 
+other  location  where  the  people  have  a  reasonable  expectation  of  privacy.  Law 
+enforcement  officers  should  seek  permission  from  the  resident(s)  to  record  inside  the 
+house or private location, and, if the permission is denied, the officer(s) must abide by the 
+individual’s request and cease recording.  The  request to record inside the house or other 
+private location and any denial should be recorded on the BWC.  
+ 
+The  only  exception  to  the  requirement  to  turn  BWCs  off  in  private  spaces  upon  request 
+should be when entry is authorized by a search warrant or exigent circumstances justifying 
+a  warrantless  search,  or  when  after  notice  of  both  the  right  to  refuse  a  search  and  to 
+prohibit recording, the individual consents to the search and the recording. 
+ 
+BWC  policies  should  must  protect  the  privacy  of  crime  victims  and  persons  seeking  to 
+report a crime or assist in a law enforcement investigation anonymously. Law enforcement 
+officers with BWCs should be required to ask a crime victim or person seeking to remain 
+anonymous, as soon as practicable, if they wish to have the BWC deactivated. If the answer 
+is  yes,  then  the  law  enforcement  officer  should  immediately  deactivate  the  BWC.  The 
+request to deactivate the camera should be recorded by the BWC.  
+ 
+This is even more important given the limited ability of data subjects to control disclosure 
+of personally identifiable information once acquired under current interpretations of FOIA 
+by the FOIA Council. 
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key  Finding:  The  DCJS  BWC  Policy  does  not  require  the  police  to 
+provide notice to an individual of the right to decline to allow recording 
+nor are the exceptions to the right to decline recording properly limited 
+to  entry  to  a  private  premises  with  a  warrant  or  in  exigent 
+circumstances. 
+The  DCJS  BWC  Policy  provides  that  “in  locations  where  individuals  have  a 
+reasonable  expectation  of  privacy,  such  as  a  residence,  individuals  may 
+decline  to  be  recorded  unless  the  recording  is  being  made  pursuant  to  an 
+investigation,  arrest,  or  search  of  a  residence  or  individuals  within  the 
+residence.”  The  DCJS  BWC  Policy  also  states  that  BWC  generally  should  not 
+be  used  to  record  “encounters”  with  undercover  police  or  confidential 
+informants or when “community members” “reporting a crime.” Section III. E. 
+
+ 
+
+ 
+
+The DCJS BWC Policy should require that individuals be given notice of their 
+right  not  to  be  recorded  in  private  spaces  or  when  they  seek  to  provide 
+confidential 
+in  clearly  exigent 
+
+the  police.  Except 
+
+information 
+
+to 
+
+13 
+
+circumstances, the exceptions to the notice requirement should be limited to 
+when  the  police  are  filming  while  serving  a  warrant  or  they  have  obtained 
+voluntary  consent  to  search  after  full  notice  of  the  right  to  refuse  both  the 
+search without a warrant and the filming. 
+
+Local Policies 
+
+Key  Finding:  With  limited  exceptions,  local  policies  now  in  place  give 
+individuals  in  private  homes,  witnesses  and  confidential  informants 
+little control over whether they are recorded.  
+As  noted  above,  only  two  of  59  departments  require  law  enforcement  to 
+provide notice of the use of a BWC.29 Only six of 59 departments prohibit the 
+use  of  BWCs  in  a  private  residence  if  the  resident  objects.30  Nevertheless, 
+while residents in these six jurisdictions have the right to request the BWCs 
+be  turned off,  none of the  policies  include  a  mandatory notice requirement. 
+Accordingly,  residents  may  not  know  that  the  BWC  is  deployed  in  the  first 
+place, and, therefore, may not know there is a need to exercise this right.   
+
+In  almost  every  jurisdiction  where  police  have  deployed  BWCs,  the  officers 
+retain  control  over  whether  to  record  crime  victims,  witnesses,  and 
+confidential informants. Only three of the 59 jurisdictions permit a victim to 
+decline to be filmed.31 Of those three, only Norfolk Police Department places 
+a positive obligation on its officers to inform individuals that they are being 
+recorded. Thus, victims in the other two jurisdictions may not know that they 
+may exercise this right. Of the three that permit the victim to control whether 
+they  are  filmed,  only  Norfolk  and  Orange  Police  Departments  mandate  that 
+the victim’s decision be documented on film.32 Of the remaining jurisdictions, 
+Virginia  Commonwealth  University  (VCU)  Police  Department  prohibits  the 
+recording  of  victim  statements  regarding  crimes  of  a  sexual  nature,  unless 
+directed  by  a  supervisor.33  Tazewell  County  Sheriff's  Office  deputies  must 
+record victims unless instructed otherwise by a supervisor, and Massanutten 
+Police  Department  officers  must  record  victims  unless  there  is  a  legal 
+exception.34  Finally,  though  the  Gordonsville  Police  Department  does  not 
+have  a  policy  specific  to  filming  victims,  it  does  encourage  its  officers  to 
+activate BWCs when responding to domestic situations, many of which may 
+include interactions with a victim.35  
+
+Only  two  of  59  jurisdictions  permit  anonymous  witnesses  to  decline  to  be 
+recorded.36  Of  those  two,  only  Norfolk  mandates  notice  of  BWC  use  and 
+requires that the informant’s decision be documented on video.37 Conversely, 
+Patrick  County  Sheriff's  Office  suggests  that  its  deputies  record  such 
+interactions and Tazewell County Sheriff's Office mandates recording unless 
+instructed  otherwise  by  a  supervisor.  Finally,  Ferrum  College  Police 
+Department  is  the  only  jurisdiction  that  permits  confidential  informants  to 
+decline to be recorded.38 Nine departments intentionally restrict the filming 
+of confidential informants.39  
+
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information 
+
+to 
+
+All  agency  policies  should  require  that  individuals  be  given  notice  of  their 
+right  not  to  be  recorded  in  private  spaces  or  when  they  seek  to  provide 
+confidential 
+in  clearly  exigent 
+circumstances, the exceptions to the notice requirement should be limited to 
+when  the  police  are  filming  while  serving  a  warrant  or  they  have  obtained 
+voluntary  consent  to  search  after  full  notice  of  the  right  to  refuse  both  the 
+search without a warrant and the filming. 
+
+the  police.  Except 
+
+ 
+Recommendation  No.  6  –  BWC  policies  must  prohibit  the  use  of  BWCs  for  mass  video 
+and  audio  surveillance  and  when  people  are  engaging  in  activities  protected  by  the 
+First Amendment. 
+ 
+Discussion: 
+Law-abiding  residents  should  not  fear  that  their  government 
+is  recording  First 
+Amendment-protected  activities,  such  as  political  protests  or  faith  services.  If  misused, 
+BWCs  can  put  this  right  in  jeopardy.  For  example,  while  the  U.S.  Supreme  Court  has  said 
+private  membership  organizations  cannot  be  compelled  to  turn  over  their  membership 
+lists to the  government,40  yet BWCs give law enforcement  the  ability  to make  an end run 
+around  this  protection.  All  an  officer  would  need  to  do  is  attend  a  NAACP  or  Tea  Party 
+meeting,  download  the  data,  and  utilize  facial  recognition  software.  Not  only  would  this 
+provide the government with a list of people attending political or social events, but would 
+also, if an officer attended each meeting, provide the  government with a good idea  of the 
+leadership  structure  and  who  the  more  active  members  are.  Therefore,  BWC  policies 
+should  prohibit  the  use  of  BWCs  to  gather  intelligence  information  during  First 
+Amendment-protected  activities  if  the  activity  is  unrelated  to  a  call  for  service  or  other 
+interaction between a law enforcement officer and member of the public in a public space.  
+ 
+The  DCJS  BWC  Policy  and  local  policies  should  prohibit  use  of  BWCs  to  conduct  general 
+surveillance at public gatherings. 
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key Finding: The DCJS BWC Policy contains no limits on the use of BWCs 
+to  conduct  general  surveillance  or  to  record  members  of  the  public 
+engaged in First Amendment activities. 
+
+ 
+
+ 
+
+Local Policies 
+
+Key  Finding:  The  vast  majority  of  law  enforcement  departments  with 
+active BWC use fail to prohibit their officers from encroaching on First 
+Amendment rights.  
+Only  two  departments,  Manassas  Park  City  Police  Department41  and 
+Woodstock  Police  Department,42  provide  explicit  prohibitions  in  their 
+policies  against  the  use  of  BWCs  to  record  First  Amendment-protected 
+activities. The remaining 57 departments fail to include language relevant to 
+protecting  this  right,  with  the  exception  of  the  Norfolk  Police  Department, 
+
+15 
+
+which  provides  no  specific  prohibition,  but  states  that  officers  should  not 
+wear cameras at closed-door public or private meetings.43  
+
+ 
+Recommendation No. 7 – BWC policies (or state law) must provide that individuals who 
+are filmed have a right to view any video on which they appear as long as the video is 
+maintained by the law enforcement agency or its agents. 
+ 
+Discussion: 
+Individuals recorded by BWCs should have access to the data for so long as it is maintained 
+by a public agency. The Government Data Collection and Dissemination Practices Act says 
+that  data  subjects  should  have  the  right  to  inspect  records  that  contain  personally 
+identifiable information. Defendants in criminal investigations should be given a copy as a 
+part of criminal discovery and department employees subject to adverse personnel actions 
+based in whole or in part of such videos should also be provided with copies at the outset of 
+any administrative process.  
+ 
+Where  copies  of  such  videos  would  reveal  the  identities  of  other  private  individuals, 
+Virginia law should be amended if necessary to assure that the public agency providing the 
+copies  redacts  such  personally  identifiable  information  before  providing  the  video  where 
+appropriate  under  the  circumstances.  Individuals  who  are  the  subjects  of  BWC  videos 
+should have the authority to permit the disclosure of the data to their attorneys and to any 
+other third party so long as the identities of any other private individuals are protected by 
+video redaction. 
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key  Finding:  The  DCJS  BWC  Policy  contains  no  provision  regarding 
+access to video by data subjects. 
+
+ 
+
+Local Policies 
+
+local  policies 
+
+include  no  provisions 
+
+Key  Finding:  Generally, 
+guaranteeing data subjects access to video in which they appear. 
+Only  two  departments  address  the  issue  of  ensuring  that  data  is  generally 
+made  available  to  the  parties  involved.  Martinsville  Police  department’s 
+policy  states  that  “[a]ny  citizen  who  is  recorded  on  one  of  the  videos  is 
+welcome  to  view  the  video.”44  Aquia  Harbour  Police  Department’s  written 
+response  to  the  ACLU  of  Virginia  FOIA  stated  that  data  is  generally  made 
+available to the parties involved and all data is made public on a case by case 
+basis, though its actual policy does not address this issue.45 The remaining 57 
+departments  fail  to  include  specific  language  ensuring  that  individuals 
+recorded by BWCs can access the data.  
+
+ 
+Recommendation  No.  8  –  BWC  policies  should  recognize  the  heightened  privacy 
+interests  of  children  compelled  to  attend  school  and  restrict  use  of  BWCs  on  primary 
+and secondary school grounds.  BWCs should be activated only when law enforcement 
+is engaged in the physical restraint or other use of force against a student. 
+
+ 
+
+16 
+
+ 
+Discussion: 
+Law  enforcement  officers  acting  in  their  official  capacity  should  not  be  present  on 
+elementary or secondary school grounds unless responding to a real and imminent threat 
+of harm to individuals on school property. Virginia public schools should focus their finite 
+resources on evidence-based solutions to school discipline issues, and not on increasing the 
+number or role of school safety and school resource officers. As the University of Virginia 
+Curry School of Education  found, Virginia “[s]chools are not  dangerous places.  . . . In  fact, 
+very few violent crimes take place at school. From the standpoint of violent crime, students 
+are safer at school than at home. Moreover, schools have become even safer during the past 
+decade . . . .”[i] Therefore, unless a situation presents a real and imminent harm to students, 
+parents,  or  school  faculty  or  staff,  students  should  not  come  into  contact  with  law 
+enforcement officers who have the power to interrogate, arrest, and use force against them.   
+ 
+Unfortunately, in many school divisions across the Commonwealth students will come into 
+contact  with  law  enforcement  on  much  more  regular  basis,  either  through  the 
+establishment  of  a  school  resource  officer  (SRO)  program  or  the  use  of  local  law 
+enforcement  to  police  student  misbehavior.  While  the  ACLU  of  Virginia  opposes  this 
+overreliance of law enforcement in Virginia’s primary and secondary schools, BWC policies 
+should  ensure  that  any  officer  assigned  a  BWC  and  deployed  to  a  primary  or  secondary 
+school  must  activate  their  BWC  for  each  encounter  with  a  student  that  involves  physical 
+restraint  or  other  use  of  force  upon  a  student.  If  the  restraint  or  use  of  force  is  not 
+reasonably anticipated, the videotaping should begin as soon as reasonably possible after it 
+begins.  
+ 
+BWC  policies  should  prohibit  the  use  of  BWCs  as  a  tool  for  law  enforcement  to  routinely 
+videotape  outside  of  such  situations.  BWCs  should  not  be  used  to  conduct  general 
+surveillance  in  schools  or  at  school  activities  or  to  record  any  non-criminal  conduct  by 
+students, teachers, or parents in school or at school activities.  
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key Finding: The DCJS BWC Policy includes no reference to any special 
+considerations  regarding  the  use  of  BWCs  on  school  grounds  or  at 
+school activities. 
+
+ 
+
+ 
+
+ 
+
+Local Policies 
+
+Key  Finding:  Only  three  departments  studied  explicitly  reference  the 
+use of BWCs on school grounds. 
+Virginia holds the unenviable position of sending a greater percentage of its 
+students  to  law  enforcement  than  any  other  state  in  the  nation.46  The 
+overreliance by Virginia’s public schools on law enforcement and the courts 
+to correct student misbehavior makes the need to restrict the use of BWCs on 
+school grounds that much more vital. Yet, only three departments discuss the 
+use of BWCs on school grounds.  
+
+17 
+
+Isle  of  Wight  County  Sheriff’s  Office  mandates  that  BWCs  be  rendered 
+inactive  while  school  resource  officers  (SRO)  are  on  school  grounds  or  at  a 
+school  related  activity  or  event,  unless  the  SRO  believes  a  there  arises  a 
+legitimate  law  enforcement  need  to  activate  the  BWC.47  Chesapeake  Police 
+Department  permits  its  SROs  to  activate  their  BWCs  “in  cases  of  suspected 
+criminal  activity  or  when  assisting  school  personnel  with  matters  that  may 
+result  in  disorderly  or  otherwise  disruptive  behavior  in  the  school 
+environment.”48  The  Suffolk  Police  Department  policy  prohibits  the  use  of 
+BWCs in school clinics and locker rooms and requires school administrators 
+seeking BWC data to make a written request to the relevant SRO.49  
+
+Thus,  not  only  do  56  out  of  59  policies  fail  to  discuss  if  and  when  law 
+enforcement  can  activate  BWCs  on  school  grounds,  but  the  three 
+departments  that  do  include  in  the  policies  the  use  of  BWCs  on  school 
+grounds  fail  to  sufficiently  restrict  their  use,  with  Chesapeake  Police 
+Department  affirmatively  permitting  its  SROs  to  activate  BWCs  to  record 
+non-criminal student behavior. 
+
+ 
+
+ 
+
+ 
+Protecting the Public’s Right to Know 
+The  policies  governing  the  collection  and  dissemination  of  personally  identifiable  data 
+using BWCs should respect both the individual right of privacy of the data subject and the 
+right of the public to access to public records. 
+ 
+Recommendation No. 9  –  BWC policies should allow for public disclosure of videos on 
+matters of public concern. 
+ 
+Discussion:  
+As the Police Executive Research Forum noted, “[a] police department that deploys BWCs is 
+making  a  statement  that  it  believes  the  actions  of  its  officers  are  a  matter  of  public 
+record.”50  Thus,  unless  prohibited  by  the  Virginia  Freedom  of  Information  Act51  or  the 
+Virginia  Government  Data  Collection  and  Dissemination  Practices  Act52,  law  enforcement 
+should  err  on  the  side  of  disclosure.  Nevertheless,  while  law  enforcement  departments 
+should  embrace  disclosure,  they  should  do  so  in  a  way  that  minimizes  invasiveness.  For 
+example: 
+
+  Any video not part of an active investigation should be made available for public 
+
+disclosure if consent of subjects involved is granted. 
+ 
+
+  Law  enforcement  departments  should  redact,  when  feasible,  the  identity  of 
+
+subjects recorded. 
+ 
+
+  Unflagged and unredacted data should not be publicly disclosed unless consent 
+
+of all subjects involved is granted.  
+ 
+
+  State  law  and  local  policies  should  prohibit  the  disclosure  of  data  for  any 
+
+commercial purpose.  
+
+ 
+
+18 
+
+ 
+
+  Local elected officials should ensure that police departments adopt policies that 
+they  will  not  invoke  the  “law  enforcement  records”  exception  to  open  records 
+laws  for  videos  where  officer  misconduct  is  involved,  as  the  general  principles 
+behind that exception do not apply in such instances. 
+
+ 
+As  discussed  in  the  section  on  the  need  for  uniformity  above,  access  to  data  should  be 
+defined in state law so that policies are uniform across the Commonwealth. The right to see 
+personally  identifiable  data  maintained  by  government  should  not  vary  jurisdiction  by 
+jurisdiction.  The  law  should  compel  disclosure  rather  than  allow  it.  Appropriate  changes 
+should  be  made  in  the  Virginia  FOIA  to  allow  BWC  policies  to  be  implemented  that  meet 
+these standards. 
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key  Finding:  The  DCJS  BWC  Policy  should 
+include  specific 
+encouragement  of  transparency  rather  than  limiting  further  the 
+discretion to make data public under FOIA. 
+The DCJS BWC Policy refers to the Freedom of Information Act and replaces 
+exceptions granted in the Act for release of data with mandates that certain 
+information  be  held  confidential.  Section  III.  F.  7.  Implementation  of  this 
+“model”  DCJS  BWC  Policy  will  be  destructive  of  transparency  and 
+accountability needed to restore trust. 
+
+ 
+
+ 
+
+ 
+
+Local Policies 
+
+Key  Finding:  Local  policies  generally  make  no  clear  reference  to  a 
+process  for  public  access  to  BWC  data  and  rely  on  the  Freedom  of 
+Information Act which allows broad discretion in denying the release of 
+information. 
+Public information access as outlined in existing BWC policies varies greatly. 
+Forty out of 59 policies make no clear reference to a process for public access 
+to  BWC  data.53  Two  departments  make  no  clear  reference  in  their  policies, 
+but  included  general  public  access  information  in  their  written  response  to 
+the ACLU of Virginia FOIA.54  
+
+Three  departments  make  no  clear  reference  to  a  process  (e.g.  FOIA  or 
+department policy), but include specific information regarding disclosure of 
+data.  Of  these  three,  Gordonsville  Police  Department  states  that  a  “request 
+from the media or other non-law enforcement agencies may be charged a fee 
+of $25.00 . . . . All such requests are asked to be in writing and from persons 
+entitled to view such recordings.”55 York/Poquoson Sheriff`s Office’s process 
+is unclear from its policy, but it does note that “due to the heightened privacy 
+concerns associated with a video recording, any video recording disclosed to 
+the  media  may  be  edited/redacted  to  preserve  the  privacy  of  individuals 
+unrelated to the case who were captured on a recording."56 Frederick County 
+
+19 
+
+ 
+
+Sheriff`s Office’s policy is unclear from its policy, but requests from media or 
+individuals must be accompanied by a minimum fee of $25 per event.57   
+
+Of those that do refer to a process, with one exception,58 all mention that data 
+is  available  either  through  an  existing  process,  such  as  departmental  policy 
+or the  Freedom of Information Act.59  But, the  departments that do mention 
+an existing process fail to clarify disclosure issues that may be unique to data 
+collected  via  BWC,  such  as  policies  surrounding  whether  individuals  not 
+present in the audio and visual depictions captured by the BWC may access 
+that data. Instead, they revert to stock language. Moreover, a recent Advisory 
+Opinion issued by the Freedom of Information Act Council complicates these 
+issues  by  indicating  that  different  rules  regarding  disclosure  of  information 
+govern local police and Sheriffs than other law enforcement agencies. 
+
+ 
+Recommendation  No.  10  –  BWC  policies  must  provide  for  videos  to  be  flagged  when 
+uploaded indicating whether they are related to a criminal investigation, a personnel 
+matter (any use of force incident or other incident that could result in a complaint) or 
+other matter (e.g., a non-criminal traffic stop or other engagement with the public that 
+does not result in criminal charges). 
+ 
+Discussion: 
+BWCs  should  be  viewed  by  law  enforcement  as  a  tool  to  increase  police  accountability, 
+transparency, and trust between law enforcement and the community. Therefore, any data 
+collected by BWCs should be stored only as long as necessary to further the purpose of the 
+BWCs  and  should  be  permanently  deleted  as  soon  as  the  data  is  no  longer  useful  for  the 
+purpose of police accountability and oversight.   
+ 
+Retention policies should be sufficient to ensure proper review of BWC data. The retention 
+time  for  data  maintained  by  a  law  enforcement  department  should  be  governed  by  a 
+flagging  system.  Any  data  collected  that  involves  a  use  of  force,  interaction  that  led  to  a 
+detention  or  arrest,  or  interaction  that  led  to  a  formal  or  informal  complaint  shall  be 
+flagged. In addition to these automatic flags, any subject of a recording or law enforcement 
+supervisors or internal investigators should be able to flag a recording.  
+ 
+There is wide variation among BWC policies at the local level and the DCJS BWC Policy only 
+adds to the confusion by using new and undefined terms. As discussed in the section above 
+on the need for uniform state policies, the findings below demonstrate unequivocally that 
+the Commonwealth needs a set of minimum standards for data collection and flagging that 
+all law enforcement departments must follow.  
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key Finding: The DCJS BWC Policy provides for video files to be marked 
+as  “evidentiary,  non-evidentiary,  or  training  demo”  when  uploaded. 
+Section III.C.10. 
+The terms used in the DCJS BWC Policy are not defined and are not the terms 
+
+ 
+
+20 
+
+ 
+
+ 
+
+used to guide decisions about disclosure of information either in the Virginia 
+FOIA or in the Government Data Collection and Dissemination Practices Act. 
+The use of these undefined terms will confuse rather than help resolve issues 
+regarding permitted and required disclosures of data. 
+
+Local Policies 
+
+Key Finding: 
+Law enforcement policies vary greatly vis-à-vis what data is maintained and 
+how data is flagged. Just 33 of 59 policies mandate that officers download all 
+data  from  BWCs.60  Sixteen  departments  utilize  a  policy  that  appears  to 
+require  that  all  BWC  data  be  downloaded,  but  includes  language  that  does 
+not explicitly mandate that all BWC data be downloaded.61 Finally, 10 policies 
+lack any clarity regarding what BWC data must be downloaded.62  
+
+Law enforcement policies  across the  Commonwealth vary greatly regarding 
+how  BWC  data  is  stored  after  being  downloaded.  For  example,  43  of  59 
+policies  create  some  variation  of  a  flagging  system  that  distinguishes 
+between  and  creates  guidelines  for  evidentiary  and  non-evidentiary  data 
+(flagged and unflagged).63 An additional 12 departments utilize a policy that 
+provides clarity for one type of BWC data (e.g. flagged/evidentiary), but not 
+for  other  types  of  data.64  Two  additional  departments  appear  to  grant 
+officers  discretion  over  how  data  is  stored.65  Finally,  two  departments 
+provide no clarity regarding what data is downloaded and how it is flagged,66 
+though Aquia Harbour Police Department did note in its response that data is 
+deleted after 90 days if not needed for court.  
+
+ 
+Recommendation No. 11 – BWC policies must provide that videos flagged as related to 
+criminal  investigations  or  personnel  matters  shall  be  maintained  for  as  long  as 
+provided by current Virginia law pertaining to criminal records and for the statute of 
+limitations  period  for  civil  matters.  Records  not  tagged  should  be  purged  as  soon  as 
+the minimum retention period expires. 
+ 
+Discussion: 
+Retention  policies  should  follow  a  state  mandated  policy  that  sets  clear  guidelines  for 
+length  of  data  retention.  The  length  of  retention  should  be  based  on  the  type  of  data 
+collected.  
+ 
+All  flagged  data  involving  a  possible  civil  complaint  against  a  law  enforcement  officer 
+should be stored until the completion of any related investigations and court proceedings 
+and should be permanently deleted following the conclusion of the investigation(s) and any 
+related court proceedings or at the end of the statute of limitations period unless required 
+to  be  maintained  in  the  officer’s  personnel  file.  All  flagged  data  involving  an  alleged 
+misdemeanor offense should be stored for one year or until final judgment and all appeals 
+are exhausted, whichever comes first. All flagged data that is evidence of an alleged felony 
+offense  should  be  maintained  indefinitely  given  that  there  is  no  statute  of  limitations  on 
+
+ 
+
+21 
+
+felonies.  If  the  felony  is  charged  and  tried,  the  video  data  should  be  kept  with  the  file  as 
+required with respect to any evidence. 
+ 
+Unflagged  data  should  be  purged  routinely  in  accordance  with  state  record  retention 
+policies unless the data subject requests that it be held for a longer period. 
+ 
+As  the  findings  below  demonstrate,  BWC  data  retention  periods  vary  greatly  across  the 
+Commonwealth.  As discussed in the  section above  on the  need for uniform state policies, 
+this is an issue on which state law should set uniform standards to be followed and applied 
+by all law enforcement agencies. 
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key  Finding:  The  DCJS  BWC  Policy  provides  that  all  records  should  be 
+stored  in  accordance  with  the  records  and  retention  schedules  issued 
+by the Library of Virginia. 
+There  is  no  provision  in  the  DCJS  BWC  Policy  for  a  data  subject  to  request 
+that the records be maintained for a longer period of time, which means that 
+data  not  flagged  by  the  agency  as  related  to  a  criminal  or  administrative 
+personnel investigation could be destroyed in 30 days without notice to the 
+data  subject  even  though  the  subject’s  right  to  pursue  constitutional  claims 
+against a department is subject to a two-year statute of limitations and their 
+exposure to a felony prosecution is unlimited by time. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Local Policies 
+
+Key  Finding:  Local  departments  maintain  vastly  different  BWC  data 
+retention policies.  
+Forty-three  law  enforcement  departments  follow  a  policy  that  creates 
+includes  some  form  of  guidance  for  the  storage  of  flagged  and  un-flagged 
+data,  though  the  specifics  of  these  policies  vary  greatly.67  For  example, 
+Orange  Police  Department  maintains  all  data 
+indefinitely68  while 
+Chincoteague  Police  Department  maintains  un-flagged  for  30  days  and 
+evidentiary  data  for  30  days  or  until  the  case  is  resolved  or  evidence  is 
+released, whichever is longer.69 
+
+Twelve  departments  provide  clarity  for  only  one  type  of  data  (e.g.  un-
+flagged), but fail to provide clarity for retention periods covering other types 
+of  data.70  For  example,  the  Brunswick  County  Sheriff`s  Office  maintains  un-
+flagged data for three months, and if, during this time, data is determined to 
+be evidentiary then it will be flagged and transferred to a disk for undefined 
+“court purposes” that lack any specific retention schedule.71  
+
+Two departments create a retention policy that grants each individual officer 
+the  discretion  to  determine  the  retention  period.  Haymarket  Police 
+Department  allows  the  officer  to  maintain  the  data  until  they  are  certain  it 
+will no longer be needed72 and Hopewell Sheriff’s Office allows its officers to 
+
+22 
+
+maintain the data until “it is determined that there is no further need for the 
+video,”73 though who makes that determination is unclear. 
+
+ 
+
+Finally,  two  departments  do  not  provide  any  clarity  regarding  BWC  data 
+retention  periods,74  though  Aquia  Harbour Police  Department did include  a 
+retention  period  for  what  appears  to  be  un-flagged  data  in  its  written 
+response to the ACLU of Virginia FOIA.75  
+
+ 
+Assuring Accountability 
+The  purpose  of  BWCs  is  to  promote  accountability.  As  such,  it  is  necessary  that  law 
+enforcement  department  policies  include  mechanisms  that  ensure  sufficient  discipline  or 
+other actions when an officer fails to follow the department’s policy. These accountability 
+policies  should  be  uniform  across  the  Commonwealth  for  the  protection  of  both  officers 
+and the public alike. 
+ 
+Recommendation  No.  12  –  BWC  policies  must  be  explicit  and  mandatory  regarding 
+activation  of  BWCs  by  individual  officers  at  the  inception  of  every  law  enforcement 
+encounter with a civilian including stops, frisks, searches, arrests, consensual searches 
+and interviews, enforcement actions and any encounter that becomes confrontational 
+or in any way hostile. 
+ 
+Discussion: 
+To ensure public trust and an accurate depiction of events, BWC policies must ensure that 
+law enforcement  officers cannot  determine  which encounters to  record and which to not 
+record. Allowing law enforcement to “edit on the fly” by turning the BWCs on and off at will 
+would remove the utility of BWCs as an accountability mechanism.76  
+ 
+Law enforcement department policies should mandate the activation of BWCs whenever a 
+law enforcement officer is responding to a call for service or at the initiation of any other 
+law  enforcement  or  investigative  interaction  between  a  law  enforcement  officer  and  a 
+member of the public. The BWC shall remain active until the interaction has concluded and 
+the law enforcement officer has left the scene. The only exception to this mandate should 
+be instances when an immediate threat to the law enforcement officer’s life or safety makes 
+activating  the  camera  impossible  or  dangerous.  When  this  exception  arises,  the  law 
+enforcement officer should activate the camera as soon as reasonably possible.   
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key  Finding:  The  DCJS  BWC  Policy  includes  appropriate  requirements 
+regarding the activation of BWCs. 
+The  DCJS  BWC  Policy  requires  activation  of  BWCs  during  “each  law 
+enforcement-public  encounter related to  a  call for service, law enforcement 
+action, subject stop, traffic stop, and/or police/deputy services provided that 
+such activation does not interfere with officer/deputy safety or the safety of 
+others. Section III.C.3. 
+
+ 
+
+23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Local Policies 
+
+Key  Finding:  Local  policies  generally  provide  clear  expectations  for 
+when  BWCs  must  be  activated  but  do  not  require  activation  in  all 
+situations  in  which  the  ACLU  recommends  nondiscretionary  use  in 
+order to provide the level of transparency and accountability needed to 
+make  BWCs  effective  tools  in  helping  to  restore  public  trust  in  law 
+enforcement. 
+A basic principle of any good BWC policy is the assurance that officers cannot 
+edit on the fly. The public should be confident that video and audio collected 
+via BWCs presents the  entire  interaction  between  law enforcement and the 
+civilian, and not just the part that law enforcement want you to see. The best 
+way  to  ensure  this  is  to  provide  law  enforcement  officers  with  clear 
+directives  regarding  who  must  wear  BWCs,  when  they  must  activate  the 
+BWC, and for what duration must the BWC stay activated.   
+
+The  ACLU  of  Virginia’s  review  of  the  59  policies  shows  that  many  law 
+enforcement  departments  permit  their  officers  a  great  deal  of  discretion, 
+undermining  the  purpose  of  BWCs.  For  example,  while  a  majority  of  the 
+policies (52 of 59) provide personnel with clear expectations for when BWCs 
+must  be  activated,77  only  39  departments  include  requirements  that  could 
+arguably  require  filming  when  responding  to  calls  for  service  or  at  the 
+initiation of law enforcement and investigative encounters.78 The remaining 
+20 policies range from requiring use of body cams during investigative or law 
+enforcement  actions,79  to  providing 
+law  enforcement  with  complete 
+discretion  vis-à-vis  activation  of  their  BWC.80  Of  the  6  policies  that  do  not 
+require  BWC  use  in  certain  situations,81  the  policies  range  from  those  that 
+complete discretion82 to those that “strongly encourage” BWC use in certain 
+situations.83  
+
+In addition to the broad discretion granted to law enforcement vis-à-vis what 
+law enforcement-community encounters require BWC activation, a review of 
+BWC  policies  also  shows  law  enforcement  officers  enjoy  broad  discretion 
+over  the  duration  of  the  recording.  Forty-nine  of  59  policies  require  law 
+enforcement  to  activate  their  BWC  until  the  law  enforcement  action  is 
+complete,84  but  only  20  of  59  policies  clarify  that  the  event  should  be 
+recorded  from  contact85  through  conclusion.86  Those  that  do  not  specify  a 
+timeframe that the BWC must be activated range from including no language 
+relevant to duration87 to a policy that permits officers to “intermittently re-
+start [the BWCs] to keep tape segments short.”88 
+
+For BWCs to function as a tool to enhance transparency, accountability, and 
+public trust in Law enforcement, community members must be assured that 
+the  BWCs  provide  an  honest,  unedited  picture  of  law  enforcement-
+community  encounters.  As  the  ACLU  of  Virginia  found,  most  Virginia  law 
+enforcement  agencies  cannot  offer  that  assurance.  Accordingly,  this  is  an 
+
+24 
+
+issue  that  should  be  resolved  by  enacting  a  state  statute  that  applies  the 
+same rule across all agencies that choose to deploy BWCs. 
+
+ 
+Recommendation  No.  13  –  BWC  policies  must  prohibit  officers  from  reviewing  BWC 
+video before writing their reports of incidents in which they are involved that involve 
+use of force or alleged misconduct. 
+ 
+Discussion: 
+Allowing law enforcement officers to view their BWC data prior to submitting their report 
+regarding  a  use  of  force  or  other  misconduct  incident  risks  undermining  fairness  of  the 
+review  or  investigatory  process  and  will  risk  harm  to  law-enforcement-community  trust. 
+Enabling  officers  to  review  the  video  data  before  submitting  their  report  would  provide 
+them  with  an  opportunity  to  amend  their  story  to  fit  the  facts  as  witnessed  on  the  BWC, 
+including  the  ability  to  omit  facts  that  were  not  caught  on  the  BWC.  This  would  create  a 
+new precedent for law enforcement.  
+ 
+As  Los  Angeles  Police  Department  (LAPD)  Commander  Andrew  Smith  noted  when 
+discussing why they don’t let witnesses view autopsy results prior to their testimony, “’We 
+don’t  want  the  witnesses’  testimony  to  be  tainted,’  Smith  said.  Detectives  want  to  obtain 
+‘clean  interviews’  from  people,  rather  than  a  repetition  of  what  they  may  have  seen in 
+media reports about Ford’s death, he added. ‘They could use information from the autopsy 
+to give credibility to their story[.]’” 89 Enabling officers to view their footage would not only 
+taint the process, but would also give them an advantage not afforded to the public. There 
+is no room for special treatment when we are talking about justice and accountability.  
+ 
+Not only would providing officers with a special right to view the BWC data undermine the 
+basic trust and accountability values that argue for introduction of BWCs, but it also creates 
+an  opportunity  for  an  unintentional  shifting  of  one’s  memory.  As  the  ACLU  of  Southern 
+California  wrote  in  a  letter  to  the  Federal  Bureau  of  Justice  Assistance  challenging  the 
+LAPD’s application to for funds to purchase BWCs, “[a] wealth of studies show the ways in 
+which  suggestion  and  the  presentation  of  information  that  is  new  or  different  from  the 
+individual’s  percipient  memory  will  actually  alter  the  memory  held  by  the  person. 
+Exposure to information that is not captured in the original memory does nor supplement 
+that memory; rather, it causes the entire memory to be reintegrated – to the point that the 
+original memory is effectively lost.”90 As the letter went on to note, the Inspector General of 
+the New York Police Department came to similar conclusions, and thus recommended that 
+officers not review BWC data until after their initial statement is submitted.91  
+ 
+By providing officers with the right to view video before submitting their initial report or 
+statement, departments risk undermining they very law enforcement-community trust that 
+BWCs have shown promise to create.   
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key  Finding:  The  DCJS  BWC  Policy  specifically  allows  officers  and 
+deputies to review video footage prior to preparing their reports. 
+
+ 
+
+25 
+
+Section III.F.3 of the DCJS BWC Policy explicitly authorizes officers/deputies 
+to review video footage of “an incident in which they were involved” prior to 
+preparing their report “or making a statement about the incident.” Allowing 
+police  but  not  data  subjects  to  review  video  before  they  give  witness 
+statements results in an unfair advantage and detracts from the ability of the 
+law enforcement agency to evaluate the officer/deputy’s actions and defense 
+of  them  based  on  the  officer/deputy’s  unaided  testimony.  This  is  especially 
+problematic  in  cases  of  officer  involved-shootings  where  the  independent 
+assessment  of  the  officer’s  state  of  mind  at  the  time  of  the  shooting  is 
+essential to the investigation of the incident. 
+
+ 
+
+Local Policies 
+
+Key Finding:  
+Current  policies  adopted  by  a  number  of  Virginia  law  enforcement 
+departments  risk  undermining  the  law  enforcement-community  trust  that 
+BWCs  were  supposed  to  create.  Twenty  departments  utilize  a  policy  that 
+provides  no  clarity  on  whether  officers  can  view  BWC  data  prior  to 
+submitting  their  report.92  Twenty-three  department  policies93  are  unclear 
+about  whether  officers  have  an  affirmative  right  to  review  the  BWC  data 
+prior  to  submitting  their  report,  but  the  policies  from  these  departments 
+create  a  strong  presumption  that  officers  can  view  the  BWC  data  prior  to 
+submitting  their  report,  as  they  generally  state  that  BWCs  can  be  used  to 
+“enhance”94  and/or 
+the 
+Waynesboro Police Department policy96 states that BWCs are used, in part, to 
+enhance officer reports, which implies that officers may view the data prior 
+to  report  submission.  The Galax Police Department policy97 states  that only 
+officers  suspected  of  wrongdoing  or  involved  in  a  shooting  may  be  denied 
+access  to  BWC  data,98  thus  implying  that  officers  not  involved  in  the  listed 
+actions  may  access  the  BWC  data.  Finally,  16  departments  include  a  clear, 
+special  right  for  officers  to  view  BWC  data  prior  to  the  completion  of  their 
+report.99 Among the departments that create this special right, the scope of it 
+varies from departments that create a discretionary special right100 to those 
+that create a mandatory special right.101 This system of special rights – rights 
+not afforded to other witnesses – has no place in Virginia’s justice system.  
+
+the  reports.  For  example, 
+
+“supplement”95 
+
+ 
+Recommendation 14 – BWC policies must empower and encourage supervisory review 
+of BWC videos to assure compliance with policies on their use. 
+ 
+Discussion: 
+Law  enforcement  BWC  policies  should  ensure  that  data  is  regularly  reviewed  to  ensure 
+compliance with policies. Such reviews should be random. In addition, BWC policies should 
+ensure that supervisors and civilian review boards review all footage flagged as involving a 
+use or force or complaint.  
+ 
+ 
+ 
+
+ 
+
+26 
+
+Findings: 
+
+DCJS BWC Policy 
+
+Key  Finding:  The  DCJS  BWC  Policy  includes  provisions  for  regular 
+supervisory review of BWC video footage. Section III. D.1 
+The  DCJS  BWC  Policy  gives  supervisors  the  right  to  review  “evidentiary” 
+video  and  reclassify  it  for  indefinite  retention  if  there  is  a  complaint  or 
+possibility  thereof,  and  to  conduct  “random  weekly  reviews  of  selected 
+recordings’  to  assess  “officer/deputy  performance.”  Section  III.  D.1.  The 
+policy  is  both  too  vague  (there  is  no  definition  of  what  constitutes  an 
+evidentiary video) and too specific (why random, weekly reviews only?). The 
+DCJS  BWC  Policy  should  give  broad  discretion  to  supervisors  to  conduct 
+reviews as needed to determine compliance and require that they be done on 
+a regular ongoing basis. 
+
+ 
+
+Local Policies 
+
+Key  Finding:  Less  than  half  of  the  law  enforcement  agencies  surveyed 
+give supervisory personnel explicit authority to audit BWC programs to 
+ensure compliance with policies on their use. 
+A  key  to  holding  officers  accountable  is  their  knowledge  that  supervisors, 
+even  absent  allegations  of  abuse,  can  review  their  actions.  While  24  of  59 
+policies  grant  supervisors  the  authority  to  randomly  review  officer’s  BWC 
+footage,102 and seven other policies arguably provide this authority,103 in 27 
+of 59 policies it is unclear whether supervisors have this authority104 and it is 
+prohibited at Woodstock Police Department.105 Sworn officers should not be 
+held  to  different  standards  vis-à-vis  compliance  with  their  department 
+orders  depending  on  what  jurisdiction  they  work  in.  All  officers  should  be 
+held  accountable  to  their  department’s  policies,  and  should  be  subject  to 
+decertification if they violate them. 
+
+ 
+Recommendation  No.  15  –  BWC  policies  must  provide  that  the  failure  of  an  officer  to 
+comply with policies regarding the use of BWCs will result in appropriate discipline, up 
+to and including termination. 
+ 
+Discussion: 
+BWC  policies  must  ensure  that  they  include  disciplinary  mechanisms  that  incentivize 
+compliance  with  the  department’s  policy.  For  example,  officers  who  fail  to  activate  their 
+BWCs or fail to notify the subject that they are being recorded must be held accountable for 
+their failure.  As such, law enforcement department personnel policies should ensure  that 
+officers  who  fail  to  follow  the  BWC  policy  face  serious  employment  repercussions, 
+including possible termination and, if authorized by state law, decertification.  
+ 
+Findings: 
+
+DCJS BWC Policy 
+
+Key Finding: The DCJS BWC Policy does not specify clearly that officers 
+will  be  disciplined,  and  possibly  terminated,  for  violating  the  policies 
+on the use of BWCs. 
+
+ 
+
+27 
+
+Section III. E. of the DCJS BWC Policy regarding equipment states “intentional 
+misuse  or  abuse  of  BWC  equipment  may  result  in  disciplinary  action.” 
+Because of its placement in the DCJS BWC Policy in a section referring only to 
+the issuance and use of the equipment, this statement does not clearly state 
+that  violating  the  policies  that  protect  the  privacy  of  individuals  or  the 
+public’s  right  to  know  would  lead  to  disciplinary  action.  In  addition,  the 
+requirement  that  there  must  be  “intentional  misuse  or  abuse”  for  any 
+discipline to be applied is too narrow a standard to assure the protection of 
+the  public’s  interest  in  the  appropriate  use  of  BWCs  in  constitutional  and 
+community policing. 
+
+ 
+
+Local Policies 
+
+Key Finding: More than half of the local agencies studied do not provide 
+any  mechanism  for  holding  officers  who  violate  BWC  policies 
+accountable. 
+Officers  who  fail  to  follow  established  policies  should  not  benefit  because 
+they work in a jurisdiction that lacks an accountability mechanism. Yet, that 
+is exactly the process Virginia has established. For example, 23 of 59 policies 
+lack  an  accountability  mechanism  for  officers  who  fail  to  comply  with  the 
+BWC  policy.106  Thirty-six  of  59  policies  create  some  type  of  accountability 
+mechanism,107  but  the  severity  of  these  mechanisms  vary  greatly,  from 
+Radford  University  Police  Department’s  policy  of  creating  both  civil  and 
+possible  criminal  penalty  options  if  the  threshold  is  met108  to  Colonial 
+Heights  Police  Department’s  policy  that  creates  a  discretionary  disciplinary 
+option.109  Thus,  depending  on  the  jurisdiction  in  which  an  officer  works,  in 
+they may or may not get away with ignoring established policies.  
+
+ 
+ 
+Conclusion 
+ 
+The  deployment  of  BWCs  can  be  a  “win”  for  both  the  public  and  police.  The  purpose  of 
+policies governing the use of BWCs is to create more transparent, accountable, and trusted 
+law  enforcement  agencies  while  protecting  Virginians’  privacy  and  liberty.  As  with  many 
+technological  advances  in  policing,  however,  the  deployment  of  this  technology  without 
+proper safeguards and the right policies in place can  turn a tool meant to promote police 
+accountability into a tool that expands the surveillance state.  
+ 
+As  a  whole,  the  59  local  agency  BWC  policies  and 
+the  DCJS  BWC  Policy  that  the  ACLU  of  Virginia 
+analyzed fail to ensure that BWCs are deployed in a 
+way  that  promotes  transparency,  accountability, 
+and trust. The policies often do not articulate clearly 
+what actions and events should be filmed, and they 
+miss  the  mark  when  it  comes  to  protecting  the 
+privacy  of  individuals  in  sensitive  situations.  They 
+
+Local agencies and sheriffs will 
+face particular difficulties 
+implementing the data retention 
+and disclosures policies that we 
+recommend without appropriate 
+changes in state law to assure 
+uniformity across all law 
+enforcement agencies. 
+
+ 
+
+28 
+
+do  not  properly  safeguard  footage  from  inappropriate  sharing.  They  fail  to  provide 
+ordinary  citizens  access  to  their  own  data  to  which  they  are  entitled.  Finally,  they  lack 
+mechanisms  to  hold  officers  accountable  for  intentionally  or  unintentionally  violating 
+policy.  
+ 
+As the summaries of the local policies show attached to this report at Appendix E, Virginia 
+law enforcement agencies offer a divergent set of policies leaving Virginians without a clear 
+understanding of when and how their interactions with law enforcement may be recorded 
+or  their  data  disclosed.  Without  the  establishment  of  minimum  standards  uniformly 
+applied  across  the  Commonwealth,  Virginians  cannot  be  assured  that  the  deployment  of 
+body worn  cameras  by state or local police  agencies  is truly a  win-win for the  police and 
+the public alike. Unfortunately, neither the local policies in place as of the summer of 2015 
+nor  the  DCJS  BWC  Policy  recommended  to  the  Law  Enforcement  subpanel  of  the  Secure 
+Commonwealth  Panel  in  September  2015  are  sufficient  to  get  Virginia  to  win-win.  In 
+addition, local agencies and sheriffs will face particular difficulties implementing the data 
+retention  and  disclosures  policies  that  we  recommend  without  appropriate  changes  in 
+state law to assure uniformity across all law enforcement agencies. 
+
+ 
+
+ 
+
+29 
+
+Methodology 
+ 
+In June, the ACLU of Virginia sent a request under the Virginia Freedom of Information Act 
+(FOIA)  to  368  law  enforcement  agencies  asking  about  current  deployment  of  BWCs  and 
+requesting  any  policies  or  regulations  in  place  to  guide  their  use.  A  copy  of  the  FOIA 
+request is attached to this report as Appendix C.  
+ 
+As  of  the  date  of  this  report,  in  response  to  the  FOIA  request  and  follow  up,  the  ACLU  of 
+Virginia collected and reviewed policies from 59 local law enforcement agencies in Virginia 
+that have deployed BWCs.110 Many others reported they were considering deploying BWCs 
+but  had  no  policies  in  place.  Still  others  said  they  had  no  BWCs  and  no  plans  to  deploy 
+them. Some law enforcement agencies initially provided no response to our FOIA request. 
+The ACLU of Virginia followed up with some but not all of the agencies who failed to reply, 
+believing that the sample of policies covered in this report is sufficiently representative of 
+the  law  enforcement  agencies  in  Virginia,  and  thus  can provide  the  public  with  a  reliable 
+picture of the deployment of BWCs in the Commonwealth. 
+ 
+In  addition,  the  ACLU  of  Virginia  reviewed  the  Department  of  Criminal  Justice  Services’ 
+model  BWC  Policy  (DCJS  BWC  Policy).  This  policy  is  the  product  of  deliberation  between 
+various law enforcement entities. Civil liberties and community groups were not consulted 
+during the development of the DCJS BWC Policy. A copy of the DCJS BWC Policy is attached 
+as Appendix A to this report. 
+ 
+To  ensure  an  accurate  and  consistent  review  of  the  BWC  policies,  the  ACLU  of  Virginia 
+developed a 25-question document (Appendix D) that served as the baseline for reviewing 
+each policy, including the DCJS BWC Policy. Each local policy is summarized in three charts 
+in  Appendix  E  to  this  report  organized  under  the  following  headings:  Protecting  the 
+Liberty, Rights and Privacy of Individual Virginians; Protecting the Public’s Right to Know; 
+and Assuring Accountability.111 
+ 
+In its review, the ACLU of Virginia only considered policies that were in effect at the time 
+they were submitted to the ACLU of Virginia. In some cases, the policy was unclear, but the 
+law enforcement representative responding to the request provided a statement regarding 
+the  rules governing BWCs that  was  not  noted in the  official policy. This  report  includes  a 
+notation clarifying to the reader anytime the report addressed an issue that was not part of 
+the  approved  policy,  but  was  rather  a  position  provided  by  the  responding  law 
+enforcement personnel. In addition, some issues, such as when cameras must be activated, 
+required subjective judgment, as the language in certain policies did not necessarily match 
+the ACLU of Virginia’s recommendations, but represented language substantially similar to 
+the ACLU of Virginia’s recommendation. Cases that required subjective judgment are noted 
+in  the  relevant  section  of  the  body  of  the  paper.  In  addition,  in  areas  where  the  policy 
+lacked a clear answer, the report notes no policy.  
+ 
+Finally,  to  provide  clarity  on  what  a  good  policy  should  include,  this  report  includes  the 
+ACLU  of  Virginia  Model  BWC  Policy 
+is  attached  as  Appendix  B.
+
+that 
+
+ 
+
+30 
+
+                                                           
+1 Justice Department Announces $20 Million in Funding to Support Body-Worn Camera Pilot Program, 
+Department of Justice, May 1, 2015 available at http://www.justice.gov/opa/pr/justice-department-
+announces-20-million-funding-support-body-worn-camera-pilot-program.  
+2 Alan Gomez, Ferguson, police rush to buy body cameras, USA Today, Oct. 11, 2014, available at 
+http://www.usatoday.com/story/news/nation/2014/10/11/police-body-cameras-ferguson-privacy-
+concerns/16587679/.  
+3 Michael McAuliffe, Police Body Cameras Seen As A Fix For Ferguson-Style Killings, Huffington Post, 
+Nov. 25, 2014, available at http://www.huffingtonpost.com/2014/11/25/ferguson-body-
+cameras_n_6221558.html.  
+4 Nick Ochsner, Who's watching you? Police struggle to pay for more cameras, 13News Now, Feb. 9, 2015, 
+available at http://www.13newsnow.com/story/news/local/13news-now-investigates/2015/02/09/more-
+police-cameras/23134669/.  
+5 See Virginia Freedom on Information Advisory Council advisory opinion issued to Sterling E. Rives, III, Hanover 
+County Attorney, on October 2, 2015 available online at http://foiacouncil.dls.virginia.gov/ops/welcome.htm 
+6 Reduction in use of force, http://www.policefoundation.org/content/body-worn-cameras- police-use-force; 
+reduction in citizen complaints, Paul M. Barrett, The Verdict From Ferguson: Put Video Cameras on Cops, 
+BUSINESS WEEK, Nov. 25, 2014, http://www.businessweek.com/articles/2014-11-25/the-verdict-from-
+ferguson-put- video-cameras-on-cops (noting that “Rialto citizens lodged about one-tenth the number of 
+complaints about police conduct during the study period as they did during the prior 12 months.”); Ian 
+Lovett, In California, a Champion for Police Cameras, N.Y. TIMES, Aug. 21, 2013, available at 
+http://www.nytimes.com/2013/08/22/us/in-california-a- champion-for-policecameras. 
+html?pagewanted=all (citing 88% decline); deterring misconduct by officers and civilians 
+http://www.richmond.com/news/virginia/government-politics/article_ca02e58c-db06- 54fe-8f26-
+2f988feef884.html 
+7 Michael White, Office of Justice Programs Diagnostic Center, Police Officer Body-Worn Cameras: Assessing 
+the Evidence, 35-36 (2014), available at 
+https://www.ojpdiagnosticcenter.org/sites/default/files/spotlight/download/Police%20Officer%20Body-
+Worn%20Cameras.pdf.  
+8 Rory Carroll, Body cameras worn by police in Rialto, California have resulted in better policing – and now 
+other forces may follow suit, The Guardian, Nov. 4, 2013, available at 
+http://www.theguardian.com/world/2013/nov/04/california-police-body-cameras-cuts-violence-
+complaints-rialto.  
+9 Rory Carroll, Body cameras worn by police in Rialto, California have resulted in better policing – and now 
+other forces may follow suit, The Guardian, Nov. 4, 2013, available at 
+http://www.theguardian.com/world/2013/nov/04/california-police-body-cameras-cuts-violence-
+complaints-rialto. 
+10 Barak Ariel, William A. Farrar, Alex Sutherland, The Effect of Police Body-Worn Cameras on Use 
+of Force and Citizens’ Complaints Against the Police: A Randomized Controlled Trial, J Quant Criminal (2015), 
+available at http://download.springer.com/static/pdf/797/art%253A10.1007%252Fs10940-014-9236-
+3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10940-014-9236-
+3&token2=exp=1441615884~acl=%2Fstatic%2Fpdf%2F797%2Fart%25253A10.1007%25252Fs10940-
+014-9236-
+3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs109
+40-014-9236-3*~hmac=bced859913f46c08167bf5344f6165d2472e6ea33ba0150635417ba37bdab004.  
+11 ACLU, Grand Jury Decision Underscores Need for Wholesale Reform of the NYPD, Dec. 3, 2014, available at 
+https://www.aclu.org/news/grand-jury-decision-underscores-need-wholesale-reform-nypd.  
+12 See,  e.g., 
+https://www.aclu.org/report/war-marijuana-black-and-white?redirect=criminal-law- reform/war-
+marijuana-black-and-white 
+ 
+http://rightoncrime.com/statement-of-principles/ 
+13 Investigation of the Ferguson Police Department, Civil Rights Division, 
+ 
+releases/attachments/2015/03/04/ferguson_police_department_report_1.pdf 
+14 Racially Biased Policing: A Principled Response, Police Executive Research Forum (PERF), COPS, 2001, pp. 
+
+2015, http://www.justice.gov/sites/default/files/opa/press- 
+
+USDOJ,  March  4,
+
+and  White, 
+
+The  War 
+
+Marijuana 
+
+Black 
+
+ 
+
+also, 
+
+Right 
+
+on 
+
+Crime, 
+
+in 
+
+ 
+
+ 
+
+on 
+
+See, 
+
+ 
+
+ 
+
+31 
+
+Law 
+
+Enforcement 
+
+http://www.roanoke.com/news/virginia/charlottesville-stop-and-
+
+                                                                                                                                                                                           
+7- 8, http://ric-zai-inc.com/Publications/cops-w0172-pub.pdf 
+15 Civil  Rights  and 
+Intelligence, 
+http://www.policechiefmagazine.org/magazine/index.cfm?fuseaction=display_arch&article_id=120 
+6&issue_id=62007 
+16 Charlottesville Police  Department, 
+frisk-cases-percent- black-percent-white/article_97c52064-d59a-11e3-b84c-001a4bcf6878.html 
+17 Implementing a Body-Worn Camera Program: Recommendations and Lessons Learned, COPS/PERF Report 
+2014, http://ric-zai- inc.com/Publications/cops-p296-pub.pdf 
+18 See, Section 2.2-3806 of the Code of Virginia, http://law.lis.virginia.gov/vacode/title2.2/chapter38/section2.2-
+3806/ 
+19 See February 2013 Opinion to Superintendent of the State Police Flaherty regarding use of automated 
+license plate readers for passive surveillance, http://ag.virginia.gov/files/Opinions/2013/12-
+073_Flaherty.pdf 
+20 Police Executive Research Forum, Implementing a Body-Worn Camera Program: Recommendations and 
+Lessons Learned, 40 (2014), available at 
+http://www.justice.gov/iso/opa/resources/472014912134715246869.pdf. 
+21 See response provided to the ACLU of Virginia by the Chesapeake Police Department and Norfolk Police 
+Department.  
+22 See response provided to the ACLU of Virginia by the Tappahannock Police Department. 
+23 See response provided to the ACLU of Virginia by the Henrico Police Department, Hurt Police Department, 
+and Kenbridge Police Department. 
+24 See response provided to the ACLU of Virginia by the Rocky Mount Police Department, Warrenton Police 
+Department, Waynesboro Police Department, and Woodstock Police Department. 
+25 See response provided to the ACLU of Virginia by the Frederick County Sheriff`s Office, Galax Police 
+Department, Halifax Police Department, and Tazewell County Sheriff's Office. 
+26 See response provided to the ACLU of Virginia by the Henrico Police Department (When reasonable, 
+practicable, and safe to do so, officers should advise citizens that the encounter is being recorded.).  
+27 See response provided to the ACLU of Virginia by the Tazewell County Sheriff's Office (May inform the 
+person if they feel it will be beneficial to do so.). 
+28 See response provided to the ACLU of Virginia by the Halifax Police Department (If asked whether they are 
+recording an event, officers are required to be truthful.) and Tappahannock Police Department (Officers will 
+inform any person that they are being recorded if they so ask.). 
+29 See response provided to the ACLU of Virginia by the Chesapeake Police Department and Norfolk Police 
+Department.  
+30 See response provided to the ACLU of Virginia by Colonial Heights Police Department, Dinwiddie County 
+Sheriff`s Office, Hopewell City Sheriff's Office, Hurt Police Department, Kenbridge Police Department, Suffolk 
+Police Department. 
+31 See response provided to the ACLU of Virginia by Ferrum College Police Department, Norfolk Police 
+Department, and Orange Police Department. 
+32 See response provided to the ACLU of Virginia by Norfolk Police Department and Orange Police 
+Department. 
+33 See response provided to the ACLU of Virginia by Virginia Commonwealth University Police Department. 
+34 See response provided to the ACLU of Virginia by Tazewell County Sheriff's Office and Massanutten Police 
+Department.  
+35 See response provided to the ACLU of Virginia by Gordonsville Police Department. 
+36 See response provided to the ACLU of Virginia by Ferrum College Police Department and Norfolk Police 
+Department. 
+37 See response provided to the ACLU of Virginia by Norfolk Police Department. 
+38 See response provided to the ACLU of Virginia by Ferrum College Police Department. 
+39 See response provided to the ACLU of Virginia by Colonial Heights Police Department, Dinwiddie County 
+Sheriff`s Office, Hampton Police Department, Henrico Police Department, Hopewell City Sheriff's Office, Hurt 
+Manassas City Police Department, Newport News Police Department, Regent University Police Department, 
+Tazewell County Sheriff's Office 
+40 National Association for the Advancement of Colored People v. Alabama, 357 U.S. 449 (1958). 
+
+ 
+
+32 
+
+                                                                                                                                                                                           
+41 See response provided to the ACLU of Virginia by the Manassas Park City Police Department. 
+42 See response provided to the ACLU of Virginia by the Woodstock Police Department. 
+43 See response provided to the ACLU of Virginia by the Norfolk Police Department. 
+44 See response provided to the ACLU of Virginia by the Martinsville Police Department. 
+45 See response provided to the ACLU of Virginia by the Aquia Harbour Police Department. 
+46 Susan Ferriss, Virginia tops nation in sending students to cops, courts: Where does your state rank?, The 
+Center for Public Integrity, Apr. 10, 2015, available at 
+http://www.publicintegrity.org/2015/04/10/17089/virginia-tops-nation-sending-students-cops-courts-
+where-does-your-state-rank.  
+47 See response provided to the ACLU of Virginia by the Isle of Wight County Sheriff’s Office. 
+48 See response provided to the ACLU of Virginia by the Chesapeake Police Department. 
+49 See response provided to the ACLU of Virginia by the Suffolk Police Department. 
+50 Police Executive Research Forum, Implementing a Body-Worn Camera Program: Recommendations and 
+Lessons Learned, v (2014), available at 
+http://www.justice.gov/iso/opa/resources/472014912134715246869.pdf.  
+51 The Virginia Freedom of Information Act, §§2.2-3700-14. 
+52 Virginia Government Data Collection and Dissemination Practices Act, §§2.2-3800(C6-7). 
+53 See response provided to the ACLU of Virginia by Abingdon Police Department, Ashland Police Department, 
+Bedford Police Department, Berryville Police Department, Blackstone Police Department, Brunswick County 
+Sheriff`s Office, Chesapeake Police Department, Chincoteague Police Department, Colonial Heights Police 
+Department, Dinwiddie County Sheriff`s Office, Drakes Branch Police Department, Farmville Police 
+Department, Ferrum College Police Department, Greene County Sheriff's Office, Haymarket Police 
+Department, Henrico Police Department, Hopewell City Sheriff's Office, Hurt Police Department, Isle of Wight 
+County Sheriff`s Office, Kenbridge Police Department, Lawrenceville Police Department, Longwood University 
+Police Department, Louisa County Sheriff's Office, Massanutten Police Department, New Market Police 
+Department, Orange Police Department, Patrick County Sheriff's Office, Pearisburg Police Department, 
+Radford University Police Department, Regent University Police Department, Richlands Police Department, 
+Roanoke County Sheriff's Office, Rocky Mount Police Department, Salem Police Department, Shenandoah 
+County Sheriff`s Office, Smithfield Police Department, Tappahannock Police Department, Warrenton Police 
+Department, West Point Police Department, and Wintergreen Police Department. 
+54 See response provided to the ACLU of Virginia by Aquia Harbour Police Department and Galax Police 
+Department. 
+55 See response provided to the ACLU of Virginia by the Gordonsville Police Department.  
+56 See response provided to the ACLU of Virginia by the York / Poquoson Sheriff`s Office. 
+57 See response provided to the ACLU of Virginia by the Frederick County Sheriff`s Office. 
+58See response provided to the ACLU of Virginia by the Martinsville Police Department (“[a]ny citizen who is 
+recorded on one of the videos is welcome to view the video”). 
+59 See response provided to the ACLU of Virginia by Danville Police Department (as provided in FOIA), Halifax 
+Police Department (Subpoenas or Freedom of Information requests will be handled by the chief of police), 
+Hampton Police Department (Disclosure of the contents of videos to others shall be made in accordance with 
+the provisions of the Virginia Freedom of Information Act, and/or the approval of the Chief of Police), 
+Manassas Park City Police Department (Data subject to the same statutory exemptions from disclosure as any 
+other Departmental records), Newport News Police Department (All requests will be honored in compliance 
+with FOIA. Data tagged as evidence will only be released with approval from commonwealth's attorney. 
+Legitimate confidential information will be redacted or obscured), Norfolk Police Department (Per 
+established procedure. Copies can be edited or redacted to preserve the privacy of individuals unrelated to 
+the case who may have been captured), Radford Police Department (Per general Records Management 
+Guidelines for records release), Tazewell County Sheriff's Office (Data permitted under FOIA. Recordings that 
+contain audio or video of a legitimate confidential nature will be redacted or obscured from downloaded 
+copies. Active cases and evidence are exempt from being released to the public under current FOIA 
+guidelines), University of Virginia Police Department (Freedom of Information Act), Virginia Commonwealth 
+University Police Department (Freedom of Information Act), Waynesboro Police Department ("Release of 
+data subject to the same statutory and department guidelines as any other department record and must be 
+approved by the Chief of Police or his/her designee. In addition, the department retains the right to limit or 
+
+ 
+
+33 
+
+                                                                                                                                                                                           
+restrict, for any reason at any time, the viewing or accessing of the data), Woodstock Police Department (In 
+accordance with department policy, FOIA, and only upon authorization of Chief of Police), and York Police 
+Department (In accordance with law). 
+60 See response provided to the ACLU of Virginia by: Abingdon Police Department, Aquia Harbour Police 
+Department, Ashland Police Department, Bedford Police Department, Berryville Police Department, 
+Blackstone Police Department, Chincoteague Police Department, Colonial Heights Police Department, 
+Dinwiddie County Sheriff`s Office, Drakes Branch Police Department, Farmville Police Department, Galax 
+Police Department, Gordonsville Police Department, Henrico Police Department, Hopewell City Sheriff's 
+Office, Hurt Police Department, Isle of Wight County Sheriff`s Office, Kenbridge Police Department, Longwood 
+University Police Department, Louisa County Sheriff's Office, Newport News Police Department, Norfolk 
+Police Department, Pearisburg Police Department, Radford University Police Department, Richlands Police 
+Department, Rocky Mount Police Department, Tappahannock Police Department, Virginia Commonwealth 
+University Police Dept., Warrenton Police Department, Waynesboro Police Department, West Point Police 
+Department, Wintergreen Police Department, and York/Poquoson Sheriff`s Office. 
+61 See response provided to the ACLU of Virginia by: Brunswick County Sheriff`s Office, Chesapeake Police 
+Department, Ferrum College Police Department, Halifax Police Department, Haymarket Police Department, 
+Lawrenceville Police Department, Manassas Park City Police Dept., New Market Police Department, Patrick 
+County Sheriff's Office, Radford Police Department, Regent University Police Department, Roanoke County 
+Sheriff's Office, Salem Police Department, Tazewell County Sheriff's Office, University of Virginia Police 
+Department, and Woodstock Police Department. 
+62 See response provided to the ACLU of Virginia by: Danville Police Department, Frederick County Sheriff`s 
+Office, Greene County Sheriff's Office, Hampton Police Department, Martinsville Police Department, 
+Massanutten Police Department, Orange Police Department, Shenandoah County Sheriff`s Office, Smithfield 
+Police Department, and Suffolk Police Department. 
+63 See response provided to the ACLU of Virginia by: Abingdon Police Department, Ashland Police 
+Department, Bedford Police Department, Berryville Police Department, Blackstone Police Department, 
+Chesapeake Police Department, Chincoteague Police Department, Colonial Heights Police Department, 
+Danville Police Department, Dinwiddie County Sheriff`s Office, Drakes Branch Police Department, Farmville 
+Police Department, Ferrum College Police Department, Frederick County Sheriff`s Office, Galax Police 
+Department, Greene County Sheriff's Office, Halifax Police Department, Henrico Police Department, Hurt 
+Police Department, Isle of Wight County Sheriff`s Office, Kenbridge Police Department, Louisa County Sheriff's 
+Office, Martinsville Police Department, New Market Police Department, Newport News Police Department, 
+Norfolk Police Department, Orange Police Department, Pearisburg Police Department, Radford Police 
+Department, Radford University Police Department, Richlands Police Department, Smithfield Police 
+Department, Suffolk Police Department, Tappahannock Police Department, Tazewell County Sheriff's Office, 
+University of Virginia Police Department, Virginia Commonwealth University Police Dept., Warrenton Police 
+Department, Waynesboro Police Department, West Point Police Department, Wintergreen Police Department, 
+Woodstock Police Department, and York/Poquoson Sheriff`s Office. 
+64 See response provided to the ACLU of Virginia by Brunswick County Sheriff`s Office, Gordonsville Police 
+Department, Hampton Police Department, Lawrenceville Police Department, Longwood University Police 
+Department, Manassas Park City Police Dept., Patrick County Sheriff's Office, Regent University Police 
+Department, Roanoke County Sheriff's Office, Rocky Mount Police Department, Salem Police Department, and 
+Shenandoah County Sheriff`s Office. 
+65 See response provided to the ACLU of Virginia by Haymarket Police Department (BWC data maintained 
+until the officer is certain it will no longer be needed) and Hopewell City Sheriff's Office (BWC data is 
+maintained on file until it is determined that there is no further need of the video).  
+66 Aquia Harbour Police Department and Massanutten Police Department.  
+67 See response provided to the ACLU of Virginia by Abingdon Police Department, Ashland Police Department, 
+Bedford Police Department, Berryville Police Department, Blackstone Police Department, Chesapeake Police 
+Department, Chincoteague Police Department, Colonial Heights Police Department, Danville Police 
+Department, Dinwiddie County Sheriff`s Office, Drakes Branch Police Department, Farmville Police 
+Department, Ferrum College Police Department, Frederick County Sheriff`s Office, Galax Police Department, 
+Greene County Sheriff's Office, Halifax Police Department, Henrico Police Department, Hurt Police 
+Department, Isle of Wight County Sheriff`s Office, Kenbridge Police Department, Louisa County Sheriff's 
+
+ 
+
+34 
+
+                                                                                                                                                                                           
+Office, Martinsville Police Department, New Market Police Department, Newport News Police Department, 
+Norfolk Police Department, Orange Police Department, Pearisburg Police Department, Radford Police 
+Department, Radford University Police Department, Richlands Police Department, Smithfield Police 
+Department, Suffolk Police Department, Tappahannock Police Department, Tazewell County Sheriff's Office, 
+University of Virginia Police Department, Virginia Commonwealth University Police Dept., Warrenton Police 
+Department, Waynesboro Police Department, West Point Police Department, Wintergreen Police Department, 
+Woodstock Police Department, and York/Poquoson Sheriff`s Office. 
+68 See response provided to the ACLU of Virginia by the Orange Police Department. 
+69 See response provided to the ACLU of Virginia by the Chincoteague Police Department. 
+70 See response provided to the ACLU of Virginia by: Brunswick County Sheriff`s Office, Gordonsville Police 
+Department, Hampton Police Department, Lawrenceville Police Department, Longwood University Police 
+Department, Manassas Park City Police Dept., Patrick County Sheriff's Office, Regent University Police 
+Department, Roanoke County Sheriff's Office, Rocky Mount Police Department, Salem Police Department, and 
+Shenandoah County Sheriff`s Office. 
+71 See response provided to the ACLU of Virginia by the Brunswick County Sheriff`s Office.  
+72 See response provided to the ACLU of Virginia by the Haymarket Police Department.  
+73 See response provided to the ACLU of Virginia by the Hopewell Sheriff’s Office.  
+74See response provided to the ACLU of Virginia by Massanutten Police Department and Aquia Harbour Police 
+Department. 
+75 See response provided to the ACLU of Virginia by the Aquia Harbour Police Department.  
+76 Michael White, Office of Justice Programs Diagnostic Center, Police Officer Body-Worn Cameras: Assessing 
+the Evidence, 9 (2014), available at 
+https://www.ojpdiagnosticcenter.org/sites/default/files/spotlight/download/Police%20Officer%20Body-
+Worn%20Cameras.pdf (“Moreover, the Mesa (Arizona) Police Department’s evaluation, which focused on the 
+cameras’ impact on reducing civil liability, addressing departmental complaints, and enhancing criminal 
+prosecution, clearly demonstrates that administrative policy influences camera usage (MPD 2013).  
+During the one-year evaluation, Mesa employed two different policies governing use of the camera: one that 
+was restrictive (implemented the first six months) and one that gave officers much more discretion in 
+determining when to record events (implemented the last six months). Camera use declined by 42 percent 
+when the discretionary policy was in effect.”) 
+77 See response provided to the ACLU of Virginia by: Abingdon Police Department, Ashland Police 
+Department, Bedford Police Department, Berryville Police Department, Blackstone Police Department, 
+Brunswick County Sheriff`s Office, Chesapeake Police Department, Chincoteague Police Department, Colonial 
+Heights Police Department, Danville Police Department, Dinwiddie County Sheriff`s Office, Drakes Branch 
+Police Department, Farmville Police Department, Ferrum College Police Department, Galax Police 
+Department, Gordonsville Police Department, Greene County Sheriff's Office, Halifax Police Department, 
+Hampton Police Department, Haymarket Police Department, Henrico Police Department, Hurt Police 
+Department, Isle of Wight County Sheriff`s Office, Kenbridge Police Department, Lawrenceville Police 
+Department, Longwood University Police Department, Louisa County Sheriff's Office, Massanutten Police 
+Department, New Market Police Department, Newport News Police Department, Norfolk Police Department, 
+Orange Police Department, Radford Police Department, Radford University Police Department, Regent 
+University Police Department, Richlands Police Department, Roanoke County Sheriff's Office, Rocky Mount 
+Police Department, Salem Police Department, Shenandoah County Sheriff`s Office, Smithfield Police 
+Department, Suffolk Police Department, Tappahannock Police Department, Tazewell County Sheriff's Office, 
+University of Virginia Police Department, Virginia Commonwealth University Police Dept., Warrenton Police 
+Department, Waynesboro Police Department, West Point Police Department, Wintergreen Police Department, 
+Woodstock Police Department, and York/Poquoson Sheriff`s Office. 
+The following departments provided the ACLU of Virginia with polices that either grant officers discretion 
+vis-à-vis when to activate their BWC or are unclear about when officers must activate their camera: Aquia 
+Harbour Police Department, Frederick County Sheriff`s Office, Hopewell City Sheriff's Office, Manassas Park 
+City Police Dept., Martinsville Police Department, Patrick County Sheriff's Office, Pearisburg Police 
+Department, Shenandoah County Sheriff`s Office, Smithfield Police Department, and Wintergreen Police 
+Department. 
+78 The following departments provided the ACLU of Virginia with polices that arguably mandate filming when 
+
+ 
+
+35 
+
+                                                                                                                                                                                           
+responding to calls for service or at the initiation of law enforcement or investigative encounters: Ashland 
+Police Department, Bedford Police Department, Berryville Police Department, Blackstone Police Department, 
+Chesapeake Police Department, Chincoteague Police Department, Drakes Branch Police Department, Ferrum 
+College Police Department, Galax Police Department, Gordonsville Police Department, Halifax Police 
+Department, Hampton Police Department, Haymarket Police Department, Henrico Police Department, Hurt 
+Police Department, Isle of Wight County Sheriff`s Office, Kenbridge Police Department, Longwood University 
+Police Department, Louisa County Sheriff's Office, New Market Police Department, Newport News Police 
+Department, Norfolk Police Department, Radford Police Department, Radford University Police Department, 
+Regent University Police Department, Richlands Police Department, Rocky Mount Police Department, Salem 
+Police Department, Smithfield Police Department, Suffolk Police Department, Tappahannock Police 
+Department, Tazewell County Sheriff's Office, University of Virginia Police Department, Virginia 
+Commonwealth University Police Dept., Waynesboro Police Department, West Point Police Department, 
+Wintergreen Police Department, Woodstock Police Department, and York/Poquoson Sheriff`s Office. 
+79 See response provided to the ACLU of Virginia by the Farmville Police Department (BWC shall be used 
+during high risk and/or volatile situations). 
+80 See response provided to the ACLU of Virginia by the Frederick County Sheriff`s Office (Deputy may self-
+initiate a recording of any event). 
+81 See response provided to the ACLU of Virginia by Aquia Harbour Police Department, Frederick County 
+Sheriff`s Office, Hopewell City Sheriff's Office, Manassas Park City Police Dept., Patrick County Sheriff's Office, 
+and Pearisburg Police Department. 
+82 See response provided to the ACLU of Virginia by the Frederick County Sheriff`s Office (Deputy may self-
+initiate a recording of any event). 
+83 See response provided to the ACLU of Virginia by the Aquia Harbour Police Department (Generally at the 
+discretion of the officer, however, activation is strongly encouraged for a specific list of police-community 
+encounters).  
+84 See response provided to the ACLU of Virginia by the Abingdon Police Department, Aquia Harbour Police 
+Department, Ashland Police Department, Bedford Police Department, Berryville Police Department, 
+Blackstone Police Department, Brunswick County Sheriff`s Office, Chesapeake Police Department, 
+Chincoteague Police Department, Colonial Heights Police Department, Danville Police Department, Dinwiddie 
+County Sheriff`s Office, Drakes Branch Police Department, Farmville Police Department, Ferrum College 
+Police Department, Frederick County Sheriff`s Office, Galax Police Department, Gordonsville Police 
+Department, Halifax Police Department, Hampton Police Department, Henrico Police Department, Hopewell 
+City Sheriff's Office, Hurt Police Department, Isle of Wight County Sheriff`s Office, Kenbridge Police 
+Department, Lawrenceville Police Department, Longwood, University Police Department, Louisa County 
+Sheriff's Office, Manassas Park City Police Dept., New Market Police Department, Newport News Police 
+Department, Norfolk Police Department, Patrick County Sheriff's Office, Pearisburg Police Department, 
+Radford Police Department, Radford University Police Department, Regent University Police Department, 
+Richlands Police Department, Rocky Mount Police Department, Salem Police Department, Smithfield Police 
+Department, Suffolk Police Department, Tappahannock Police Department, Tazewell County Sheriff's Office, 
+University of Virginia Police Department, Virginia Commonwealth University Police Dept., Waynesboro Police 
+Department, West Point Police Department, and Woodstock Police Department. 
+85 For purposes of this analysis, departments that create a requirement that officers clarify why they failed to 
+record the entire contact are counted in this number.  
+86 See response provided to the ACLU of Virginia by the Brunswick County Sheriff`s Office, Danville Police 
+Department, Hampton Police Department, Isle of Wight County Sheriff`s Office, Lawrenceville Police 
+Department, Longwood University Police Department, Louisa County Sheriff's Office, Kenbridge Police 
+Department, Newport News Police Department, Radford University Police Department, Regent University 
+Police Department, Rocky Mount Police Department, Salem Police Department, Shenandoah County Sheriff`s 
+Office, Tazewell County Sheriff's Office, University of Virginia Police Department, Waynesboro Police 
+Department, West Point Police Department, Woodstock Police Department, and York/Poquoson Sheriff`s 
+Office. 
+87 See response provided to the ACLU of Virginia by the Greene County Sheriff's Office. 
+88 See response provided to the ACLU of Virginia by the Aquia Harbour Police Department. 
+
+ 
+
+36 
+
+                                                                                                                                                                                           
+89 Frank Stoltze, Update Ezell Ford shooting: LAPD places 'security hold' on autopsy report, KPCC, Aug. 18 
+2014, available at http://www.scpr.org/news/2014/08/18/46063/ezell-ford-lapd-places-security-hold-on-
+autopsy-fo/.  
+90 Peter Bibring, ACLU of Southern California Letter to Bureau of Justice Assistance, Sept. 3, 2015, available at 
+https://www.aclusocal.org/wp-content/uploads/2015/09/ACLU-Letter-to-DOJ-re-LAPD-Body-Camera-
+Funding.pdf.  
+91 Peter Bibring, ACLU of Southern California Letter to Bureau of Justice Assistance, Sept. 3, 2015, available at 
+https://www.aclusocal.org/wp-content/uploads/2015/09/ACLU-Letter-to-DOJ-re-LAPD-Body-Camera-
+Funding.pdf. 
+92 See response provided to the ACLU of Virginia by Abingdon Police Department, Aquia Harbour Police 
+Department, Brunswick County Sheriff`s Office, Chesapeake Police Department, Danville Police Department, 
+Greene County Sheriff's Office, Hampton Police Department, Haymarket Police Department, Henrico Police 
+Department, Lawrenceville Police Department, Longwood University Police, Massanutten Police Department, 
+Orange Police Department, Patrick County Sheriff's Office, Regent University Police Department, Roanoke 
+County Sheriff's Office, Shenandoah County Sheriff`s Office, Smithfield Police Department, Tappahannock 
+Police Department, and Wintergreen Police Department. 
+93 See response provided to the ACLU of Virginia by: Bedford Police Department, Berryville Police 
+Department, Blackstone Police Department, Chincoteague Police Department, Drakes Branch Police 
+Department, Farmville Police Department, Frederick County Sheriff`s Office, Galax Police Department, 
+Gordonsville Police Department, Hurt Police Department, Isle of Wight County Sheriff`s Office, Kenbridge 
+Police Department, Louisa County Sheriff's Office, Martinsville Police Department, New Market Police 
+Department, Pearisburg Police Department, Radford Police Department, Radford University Police 
+Department, Richlands Police Department, Salem Police Department, Warrenton Police Department, 
+Waynesboro Police Department, and West Point Police Department. 
+94 See, e.g. response provided to the ACLU of Virginia by Louisa County Sheriff's Office. 
+95 See, e.g. response provided to the ACLU of Virginia by Chincoteague Police Department. 
+96 See, e.g. response provided to the ACLU of Virginia by the Waynesboro Police Department. 
+97 See, e.g. response provided to the ACLU of Virginia by the Galax Police Department. 
+98 See, e.g. response provided to the ACLU of Virginia by the Galax Police Department.  
+99 See response provided to the ACLU of Virginia by Ashland Police Department, Colonial Heights Police 
+Department, Dinwiddie County Sheriff`s Office, Ferrum College Police Department, Halifax Police Department, 
+Hopewell City Sheriff's Office, Manassas Park City Police Dept., Newport News Police Department, Norfolk 
+Police Department, Rocky Mount Police Department, Suffolk Police Department, Tazewell County Sheriff's 
+Office, University of Virginia Police Department, Virginia Commonwealth University, Woodstock Police 
+Department, and York/Poquoson Sheriff`s Office. 
+100 See, e.g. response provided to the ACLU of Virginia by Virginia Commonwealth University Police 
+Department (May be reviewed by an employee to assist with writing a report, supplement or memorandum,). 
+101 See, e.g. response provided to the ACLU of Virginia by Suffolk Police Department (“Officers shall review all 
+applicable video footage (to include supporting officer video footage) prior to submission of any formal 
+statement."). 
+102 See response provided to the ACLU of Virginia by Ashland Police Department, Berryville Police 
+Department, Blackstone Police Department, Chesapeake Police Department, Danville Police Department, 
+Frederick County Sheriff`s Office, Galax Police Department, Greene County Sheriff's Office, Hurt Police 
+Department, Isle of Wight County Sheriff`s Office, Kenbridge Police Department, Louisa County Sheriff's 
+Office, Manassas Park City Police Dept., Norfolk Police Department, Orange Police Department, Shenandoah 
+County Sheriff`s Office, Suffolk Police Department, Tappahannock Police Department, Tazewell County 
+Sheriff's Office, University of Virginia Police Department, Virginia Commonwealth University Police Dept., 
+Waynesboro Police Department, West Point Police Department, and York/Poquoson Sheriff`s Office. 
+103 See response provided to the ACLU of Virginia by Brunswick County Sheriff`s Office (BWC data can be 
+utilized by supervisory personnel for reviews of deputy performance and states that shift supervisors shall 
+periodically inspect the BWC equipment of all officers on their watch to insure compliance with this general 
+order), Ferrum College Police Department (BWC data may be reviewed by a supervisor to ensure that 
+Department procedures are being followed), Halifax Police Department (Chief may access and review BWC 
+footage of officers as part of the department’s ongoing inspections and audits program), Henrico Police 
+
+ 
+
+37 
+
+                                                                                                                                                                                           
+Department (Commander, Quality Assurance shall periodically conduct a random review recordings to assess 
+the overall performance of the equipment), Hopewell City Sheriff's Office (BWC data shall be made available 
+from the officer is requested from the supervisor), Martinsville Police Department (supervisors can view the 
+BWC data of the officers they supervise), and Patrick County Sheriff's Office (supervisor shall periodically 
+inspect the equipment of all officers on his watch to insure compliance of this general order). 
+104 See response provided to the ACLU of Virginia by Abingdon Police Department, Aquia Harbour Police 
+Department, Bedford Police Department, Chincoteague Police Department, Colonial Heights Police 
+Department, Dinwiddie County Sheriff`s Office, Drakes Branch Police Department, Farmville Police 
+Department, Gordonsville Police Department, Hampton Police Department, Haymarket Police Department, 
+Lawrenceville Police Department, Longwood University Police Department, Massanutten Police Department, 
+New Market Police Department, Newport News Police Department, Pearisburg Police Department, Radford 
+Police Department, Radford University Police Department, Regent University Police Department, Richlands 
+Police Department, Roanoke County Sheriff's Office, Rocky Mount Police Department, Salem Police 
+Department, Smithfield Police Department, Warrenton Police Department, and Wintergreen Police 
+Department. 
+105 See response provided to the ACLU of Virginia by Woodstock Police Department. 
+106 See response provided to the ACLU of Virginia by Abingdon Police Department, Aquia Harbour Police 
+Department, Ashland Police Department, Blackstone Police Department, Chincoteague Police Department, 
+Danville Police Department, Drakes Branch Police Department, Farmville Police Department, Halifax Police 
+Department, Hampton Police Department, Haymarket Police Department, Henrico Police Department, 
+Kenbridge Police Department, Martinsville Police Department, New Market Police Department, Newport 
+News Police Department, Norfolk Police Department, Radford Police Department, Regent University Police 
+Department, Roanoke County Sheriff's Office, Tappahannock Police Department, Waynesboro Police 
+Department, and York/Poquoson Sheriff`s Office. 
+107 See response provided to the ACLU of Virginia by: Bedford Police Department, Berryville Police 
+Department, Brunswick County Sheriff`s Office, Chesapeake Police Department, Colonial Heights Police 
+Department, Dinwiddie County Sheriff`s Office, Ferrum College Police Department, Frederick County Sheriff`s 
+Office, Galax Police Department, Gordonsville Police Department, Greene County Sheriff's Office, Hopewell 
+City Sheriff's Office, Hurt Police Department, Isle of Wight County Sheriff`s Office, Lawrenceville Police 
+Department, Longwood University Police Department, Louisa County Sheriff's Office, Manassas Park City 
+Police Dept., Massanutten Police Department, Orange Police Department, Patrick County Sheriff's Office, 
+Pearisburg Police Department, Radford University Police Department, Richlands Police Department, Rocky 
+Mount Police Department, Salem Police Department, Shenandoah County Sheriff`s Office, Smithfield Police 
+Department, Suffolk Police Department, Tazewell County Sheriff's Office, University of Virginia Police 
+Department, Virginia Commonwealth University Police Dept., Warrenton Police Department, West Point 
+Police Department, Wintergreen Police Department, and Woodstock Police Department. 
+108 See response provided to the ACLU of Virginia by Radford University Police Department (“Violations of 
+law will form the basis for civil and criminal sanctions in a recognized judicial setting. Any employee who 
+erases, modifies, edits or tampers with a recording will be disciplined according to the Police Department 
+policies and may be subject to criminal sanctions.”). 
+109 See response provided to the ACLU of Virginia by Colonial Heights Police Department (“Non-compliance 
+with this order could result in disciplinary action.”).  
+110 The following law enforcement departments submitted their BWC policy to the ACLU of Virginia: 
+Abingdon Police Department, Aquia Harbour Police Department, Ashland Police Department, Bedford Police 
+Department, Berryville Police Department, Blackstone Police Department, Brunswick County Sheriff`s Office, 
+Chesapeake Police Department, Chincoteague Police Department, Colonial Heights Police Department, 
+Danville Police Department, Dinwiddie County Sheriff`s Office, Drakes Branch Police Department, Farmville 
+Police Department, Ferrum College Police Department, Frederick County Sheriff`s Office, Galax Police 
+Department, Gordonsville Police Department, Greene County Sheriff's Office, Halifax Police Department, 
+Hampton Police Department, Haymarket Police Department, Henrico Police Department, Hopewell City 
+Sheriff's Office, Hurt Police Department, Isle of Wight County Sheriff`s Office, Kenbridge Police Department, 
+Lawrenceville Police Department, Longwood University Police Department, Louisa County Sheriff's Office, 
+Manassas Park City Police Dept., Martinsville Police Department, Massanutten Police Department, New 
+Market Police Department, Newport News Police Department, Norfolk Police Department, Orange Police 
+
+ 
+
+38 
+
+                                                                                                                                                                                           
+Department, Patrick County Sheriff's Office, Pearisburg Police Department, Radford Police Department, 
+Radford University Police Department, Regent University Police Department, Richlands Police Department, 
+Roanoke County Sheriff's Office, Rocky Mount Police Department, Salem Police Department, Shenandoah 
+County Sheriff`s Office, Smithfield Police Department, Suffolk Police Department, Tappahannock Police 
+Department, Tazewell County Sheriff's Office, University of Virginia Police Department, Virginia 
+Commonwealth University Police Dept., Warrenton Police Department, Waynesboro Police Department, West 
+Point Police Department, Wintergreen Police Department, Woodstock Police Department, and 
+York/Poquoson Sheriff`s Office. 
+111  In  its  analysis,  the  ACLU  of  Virginia  only  considered  policies  that  were  in  effect  at  the  time  they  were 
+submitted  to  the  ACLU  of  Virginia.  In  some  cases,  the  policy  was  unclear,  but  the  law  enforcement 
+representative responding the request specifically provided a statement regarding the rules governing BWCs 
+that was not noted in the official policy. In those cases, it is noted in the paper that a policy is not part of the 
+approved policy, but is rather a position provided by the responding law enforcement personnel. In addition, 
+some  issues,  such  as  when  cameras  must  be  activated,  required  subjective  judgment,  as  the  language  in 
+certain policies did not necessarily match the ACLU of Virginia’s recommendations, but represented language 
+substantially similar to the ACLU of Virginia’s recommendation. Cases that required subjective judgment are 
+noted  in  the  relevant  section  of  the  body  of  the  paper.  In  addition,  in  areas  where  the  policy  lacked  a  clear 
+answer, the compliance with ACLU of Virginia policy decision noted no policy.  
+ 
+ 
+
+ 
+
+39 
+
+Appendix A: DCJS Model Body Worn Camera Policy 
+ 
+Appendix B: ACLU of Virginia Model Body Worn Camera Policy 
+ 
+Appendix  C:  Freedom  of  Information  Act  Request  Sent  to  Local  Law 
+Enforcement Regarding Body Worn Cameras 
+ 
+Appendix D: 25 Questions Used to Review Body Worn Camera Policies 
+ 
+Appendix E: Summaries of Local Body Worn Camera Policies 
+
+Protecting the Liberty, Rights and Privacy of Individual Virginians 
+Protecting the Public’s Right to Know 
+Assuring Accountability 
+
+ 
+
+ 
+
+40 
+
+

@@ -1,0 +1,143 @@
+This letter is in response to your June 12, 2015 Freedom of Information Act request, received 
+June 16, 2015, for information pertaining to law enforcement worn body cameras. 
+  
+The information provided was a departmental direct order from the Chief of Police dated January 
+15, 2013.  Also, in reference to the policies, practices, procedures, rules, or orders concerning the 
+storage of data obtained using body cameras are the setting referring to the period that data is 
+stored.  
+  
+  
+January 15, 2013 
+Body-worn Video Cameras – It will be a priority for our department to do everything possible 
+to capture video and/or audio of use of force incidents as well as other confrontations with 
+citizens.  Mandatory use of the body worn video cameras provides undeniable proof that our 
+officers have conducted themselves in a professional manner.  
+  
+The Martinsville Police Department's body cameras video is stored on a server located in the 
+Department's evidence room.  Police body camera videos are stored by the particular event the 
+officer has recorded and selected for the event.  
+  
+The body camera videos along with in-car camera videos and interview room videos are 
+controlled by an automatic digital video management system or DVMS. The amount of time that 
+a video is maintained on the server is dependent upon the event description and the amount of 
+disk storage available.  The DVMS starts cleanup (removal of videos) when disk usage is more 
+than 80%; cleanup stops when disk usage is lowered to 70%. When disk usage is between 70% 
+and 80% expired videos that have not been accessed in 150 days are deleted. Event descriptions 
+with minimum and maximum storage times are as follows in terms of days: 
+  
+
+Event Description 
+
+Minimum days held 
+
+Maximum days held 
+
+Assist other Agency 
+Assist other Officer 
+Vehicle Crash 
+Alarm – Business / Residential 
+Body Camera default 
+Criminal Apprehension 
+CIT – ECO – TDO 
+Disorderly Person/Group 
+Domestic 
+DUI-DUID 
+Evidence 
+Funeral Escort 
+General Assistance 
+General Traffic Stop 
+Internal Affairs (Admin only) 
+Interview Room 1 
+Interview Room 2 
+
+120 
+120 
+120 
+120 
+120 
+120 
+120 
+120 
+120 
+770 
+
+150 
+150 
+150 
+150 
+121 
+150 
+150 
+150 
+150 
+1095 
+
+Indefinite 
+
+Indefinite 
+
+30 
+120 
+120 
+
+31 
+150 
+150 
+
+Indefinite 
+
+Indefinite 
+
+365 
+365 
+
+366 
+366 
+
+Pursuit 
+Red-light/Stop Sign 
+Search of Vehicle or Person 
+Speeding 
+Victim Interview 
+Video Training 
+Witness Interview 
+
+770 
+120 
+
+Indefinite 
+
+120 
+120 
+10 
+120 
+
+1095 
+150 
+
+Indefinite 
+
+150 
+150 
+11 
+150 
+
+  
+  
+Officers can only view their own videos. Supervisors can view their own videos and the videos 
+of the officers they supervise. Administrators and the Commonwealth's Attorney for Martinsville 
+can view all videos. Any citizen who is recorded on one of the videos is welcome to view the 
+video. Only police administrators and the Commonwealth Attorney's office can export videos for 
+court purposes only. Videos cannot be release for any other purpose without approval from the 
+Chief of Police or his designee. 
+  
+  
+Sean L. Dunn 
+Chief of Police 
+City of Martinsville 
+55 W. Church St. 
+Martinsville, VA 24114 
+(276) 403-5310 office 
+ 
+
+

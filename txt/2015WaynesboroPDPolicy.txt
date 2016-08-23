@@ -1,0 +1,1077 @@
+                                                   
+
+ 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+
+WAYNESBORO POLICE DEPARTMENT 
+GENERAL ORDER                            
+ 
+GO Number: 19.04 
+ 
+Subject: Body Worn Camera (BWC)                               
+Effective Date: 3/01/15                                     
+Approved By: Chief Michael D. Wilhelm                                                        
+Revised:                                      
+Policy Review Date: March 2016 
+VLEPSC Standard: 
+ 
+POLICY:   A body worn camera can provide powerful evidence of criminal activity and has 
+
+14 
+
+been demonstrated to be of value in documenting department members’ interactions with 
+
+15 
+
+individuals for use in the evaluation of officer integrity, professionalism and performance. It also 
+
+16 
+
+serves as a useful training tool to improve law enforcement techniques and tactics.  In order to 
+
+17 
+
+maximize the utility of this equipment in these and related areas, department members shall 
+
+18 
+
+follow the procedures for body worn camera use as set forth in this policy. 
+
+19 
+20 
+
+ 
+PURPOSE:  It is the purpose of this policy to provide department members with guidelines for 
+
+21 
+
+the use of body worn mobile video and audio recording equipment, commonly referred to as a 
+
+22 
+
+body worn camera. 
+
+23 
+24 
+
+ 
+DEFINITIONS: 
+
+25 
+
+ 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+A.  Body Worn Camera (BWC) A system worn by individual department members that 
+
+records audio/video data and related metadata. 
+
+B.  Evidence Transfer Module (ETM) A docking station for BWCs that functions to 
+
+upload audio/video data from the cameras and to recharge them for use. 
+
+C.  Evidence.com A web-based evidence management system that securely stores 
+
+audio/video/photo data. 
+
+D.  Evidence Sync A computer-based program that functions to upload audio/video data to 
+
+from BWCs to Evidence.com. 
+
+ 
+
+ 
+
+ 
+
+                                                   
+
+ 
+
+34 
+
+35 
+
+36 
+
+37 
+
+E.  Mobile App A mobile application specifically designed by the BWC manufacturer that is 
+
+used to connect to a BWC or Evidence.com for the purpose of reviewing, tagging, and/or 
+
+classifying audio/video recordings. 
+
+ 
+
+38 
+
+OBJECTIVES: 
+
+39 
+
+ 
+
+40 
+
+41 
+
+42 
+
+43 
+
+44 
+
+45 
+
+46 
+
+47 
+
+48 
+
+49 
+
+50 
+
+A.  Program Objectives: The Waynesboro Police Department has adopted the use of BWCs 
+
+in order to accomplish several objectives including: 
+
+1.  Accurate documentation of events, actions, conditions, and statements made 
+
+during arrests and critical incidents, so as to enhance department member reports, 
+
+the collection of evidence, and testimony in court. 
+
+2.  The enhancement of this agency’s ability to review circumstances involving 
+
+arrest, arrest procedures, department member and citizen contacts, evidence for 
+
+investigative purposes, as well as for department member evaluation and training. 
+
+3.  To resolve complaints of misconduct and excessive force against department 
+
+members. 
+
+ 
+
+51 
+
+BODY WORN CAMERA PROCEDURES: 
+
+52 
+
+ 
+
+53 
+
+54 
+
+55 
+
+56 
+
+57 
+
+58 
+
+59 
+
+60 
+
+61 
+
+ 
+
+ 
+
+A.  Department members shall adhere to the following procedures when using BWCs: 
+
+1.  A supply of BWCs will be available for department members serving in an 
+
+enforcement capacity.  
+
+2.  All department members trained to use the BWC shall utilize the BWC while 
+
+working in uniform and engaging in law enforcement activities. 
+
+3.  Department members who have been trained to use the BWC and are working in 
+
+“plain clothes” or his/her “uniform of the day” are strongly encouraged to utilize the 
+
+BWC while engaged in enforcement or investigatory activities if it does not 
+
+compromise the confidentiality of the activity.   
+
+ 
+
+62 
+
+63 
+
+64 
+
+65 
+
+66 
+
+67 
+
+68 
+
+69 
+
+70 
+
+71 
+
+72 
+
+73 
+
+74 
+
+75 
+
+76 
+
+77 
+
+78 
+
+79 
+
+80 
+
+81 
+
+82 
+
+83 
+
+84 
+
+85 
+
+86 
+
+87 
+
+88 
+
+89 
+
+90 
+
+                                                   
+
+ 
+
+4.  It is the responsibility of each department member utilizing a BWC to ensure the 
+
+BWC is in good working condition and fully charged prior to its deployment. 
+
+5.  If a problem is encountered with any component of the system, this shall be 
+
+reported to your immediate supervisor as soon as reasonably possible. 
+
+6.  Department members will only use BWCs issued or approved by the department.  
+
+In any event in which an audio/video/photo recording is captured on a non-
+
+department issued or approved device by department members engaged in the 
+
+performance of his or her official duties, any recording and its related metadata 
+
+are the sole property of the Waynesboro Police Department and is governed by 
+
+this and other policies. 
+
+7.  The BWC equipment and all data, images, video, and metadata captured, 
+
+recorded, or otherwise produced by the equipment are the sole property of the 
+
+Waynesboro Police Department and is governed by this and other policies. 
+
+8.  The BWC will be worn in such a way as to provide an unobstructed camera view 
+
+of department member/citizen contacts.  Department members will only use 
+
+department approved equipment to attach the BWC to their uniform, person or 
+
+external ballistic vest carrier. 
+
+9.  Department members shall document that an audio/video recording was made of a 
+
+contact in all reports related to that contact.  This includes but is not limited to 
+
+incident, field contact, arrest and/or use of force reports. 
+
+10. Once a department member downloads a recording to the Evidence.Com system 
+
+pertaining to one of the following types of incidents, the department member shall 
+
+login to the Evidence.Com system and enter a corresponding WPD case number 
+
+as the ID# that corresponds to the incident. 
+
+A.  Recordings needed for court purposes 
+
+B.  Recordings involving any officer injury 
+
+C.  Recordings that may need to be reviewed as part of an Administrative Inquiry 
+
+or Internal Affairs Investigation 
+
+D.  Recordings involving the use of force  
+
+ 
+
+ 
+
+ 
+
+                                                   
+
+ 
+
+11. Department members utilizing a BWC must attend an agency approved training 
+
+program to ensure proper use and operation of BWC equipment. Additional 
+
+training may be required at periodic intervals to ensure the continued effective use 
+
+and operation of the equipment, proper calibration and performance, and to 
+
+incorporate changes, updates, or other revisions in policy and equipment. 
+
+12. Department members will not edit, alter, erase, distribute or disseminate in any 
+
+manner BWC recordings without prior authorization and approval of the Chief of 
+
+Police or his/her designee. For the purpose of this General Order, entering a WPD 
+
+case number as the ID# in the Evidence.Com system to correspond with a 
+
+particular recording will not be considered “editing or altering” 
+
+A.  Copies of specific BWC recording may be obtained from a supervisor for 
+
+court purposes.  
+
+B.  It is the responsibility of the department member receiving the copy of the 
+
+requested BWC recording to ensure the recording is not distributed or 
+
+disseminated beyond its intended use for court purposes without authorization 
+
+from the Chief of Police or his/her designee. 
+
+13. Department members are encouraged to inform their supervisor of any recordings 
+
+that may be of value for training purposes. 
+
+A.  Any requests to retain a recording for a specific training purpose must be 
+
+forwarded through the Chain of Command to the appropriate Division 
+
+Commander.   
+
+B.  The Division Commander will determine whether the recording fits a specific 
+
+training need and will take the appropriate steps in the Evidence.Com system 
+
+to retain the recording for training. 
+
+14. The department retains the right to limit or restrict, for any reason at any time, the 
+
+viewing or accessing of audio/video data generated from BWCs 
+
+15. The release of BWC information requested through a public records request will 
+
+be subject to the same statutory and department guidelines as any other 
+
+91 
+
+92 
+
+93 
+
+94 
+
+95 
+
+96 
+
+97 
+
+98 
+
+99 
+
+100 
+
+101 
+
+102 
+
+103 
+
+104 
+
+105 
+
+106 
+
+107 
+
+108 
+
+109 
+
+110 
+
+111 
+
+112 
+
+113 
+
+114 
+
+115 
+
+116 
+
+117 
+
+118 
+
+ 
+
+ 
+
+ 
+
+                                                   
+
+ 
+
+department record and must be approved by the Chief of Police or his/her 
+
+designee. 
+
+16. All BWC’s will be accounted for at the end of each shift. 
+
+17. Any loss of, or damage to, any BWC or BWC accessory shall be immediately 
+
+reported to his/her immediate supervisor and documented in an incident report. 
+
+18. Requests for the deletion of portions of the recordings (e.g., in the event of a 
+
+personal recording) must be submitted in writing and approved by the Chief of 
+
+Police or his/her designee.  All requests and final decisions shall be kept on file. 
+
+ 
+
+B.  Body Worn Camera Operation: 
+
+1.  Department members will activate the BWC when responding to calls for service 
+
+and during law enforcement related encounters and activities such as traffic stops, 
+
+arrests, searches, interrogations, and pursuits.   
+
+2.  Department members will activate the BWC when responding to potentially 
+
+adversarial contacts or at any time that the department member believes the 
+
+recording would be beneficial to the administration of justice. Potentially 
+
+adversarial contacts may include but are not limited to, consensual encounters on 
+
+the street, telephone conversations with agitated individuals, or emotionally 
+
+charged incidents or situations. 
+
+3.  The BWC shall remain activated until the event is completed in order to ensure 
+
+the integrity of the recording unless the contact moves into an area restricted by 
+
+this policy. 
+
+4.  If a department member fails to activate the BWC, fails to record the entire 
+
+contact, or interrupts the recording, the department shall document why a 
+
+recording was not made, was interrupted, or was terminated.   
+
+C.  Restrictions on Using BWCs: 
+
+1.  BWCs shall be used only in conjunction with official law enforcement duties.  
+
+2.  The BWC may not be used to record: 
+
+119 
+
+120 
+
+121 
+
+122 
+
+123 
+
+124 
+
+125 
+
+126 
+
+127 
+
+128 
+
+129 
+
+130 
+
+131 
+
+132 
+
+133 
+
+134 
+
+135 
+
+136 
+
+137 
+
+138 
+
+139 
+
+140 
+
+141 
+
+142 
+
+143 
+
+144 
+
+145 
+
+146 
+
+ 
+
+ 
+
+ 
+
+                                                   
+
+ 
+
+A.  Members of the department without their knowledge, unless authorized by the 
+
+Chief of Police; 
+
+B.  Department members when on break or otherwise engaged in personal 
+
+activities; or 
+
+C. In any location where individuals have a reasonable expectation of privacy, such 
+
+as a restroom or locker room. 
+
+D.  In any other situation where a person is speaking with someone with the 
+
+privilege of confidential communication such as an attorney or clergyman. 
+
+3.  Department members have the discretion to turn off the BWC or not activate the 
+
+BWC during certain articulable situations, however, in these situations department 
+
+members shall thoroughly document on camera and/or in a crime incident report 
+
+his or her reasons for not activating or turning off the camera.  Some of these 
+
+situations include but are not limited to: 
+
+A.  Interviews with victims of rape, abuse or other sensitive crimes.  In these 
+
+situations department members should consider the evidentiary value of 
+
+recording and the willingness of the victim to speak on camera.  Department 
+
+members may also consider turning the BWC away from the victim so they 
+
+only capture the audio and not video. 
+
+B.  Interviews with witnesses of a crime who wish to remain anonymous.  In these 
+
+situations department members should consider the evidentiary value of 
+
+recording and the willingness of the witness to speak on camera.  Department 
+
+members may also consider turning the BWC away from the witness so they 
+
+only capture audio and not video. 
+
+C.  Encounters or searches of individuals who are partially or completely 
+
+unclothed. 
+
+D.  Encounters or activities the department member determines to be casual in 
+
+nature such as a person asking for directions or a department member walking 
+
+into a business and engaging in casual conversation with the store clerk. 
+
+147 
+
+148 
+
+149 
+
+150 
+
+151 
+
+152 
+
+153 
+
+154 
+
+155 
+
+156 
+
+157 
+
+158 
+
+159 
+
+160 
+
+161 
+
+162 
+
+163 
+
+164 
+
+165 
+
+166 
+
+167 
+
+168 
+
+169 
+
+170 
+
+171 
+
+172 
+
+173 
+
+174 
+
+ 
+
+ 
+
+ 
+
+                                                   
+
+ 
+
+175 
+
+176 
+
+177 
+
+178 
+
+179 
+
+180 
+
+181 
+
+182 
+
+183 
+
+ 
+
+184 
+
+185 
+
+186 
+
+187 
+
+188 
+
+189 
+
+190 
+
+191 
+
+192 
+
+193 
+
+194 
+
+195 
+
+196 
+
+197 
+
+198 
+
+199 
+
+200 
+
+201 
+
+202 
+
+203 
+
+E.  Encounters or activities where activating the BWC would seem officious or 
+
+off-putting. 
+
+F.  Encounters or activities where activating the BWC would be unsafe, 
+
+impossible, or impractical. 
+
+G. Encounters or activities where activating the BWC would have a negative 
+
+impact on community relationships. 
+
+4.  Department issued BWCs will not be used for personal use regardless of whether 
+
+the department member is on duty or off duty. 
+
+D.  Data Control and Management 
+
+1.  All files contained on a BWC shall be securely downloaded at the end of each 
+
+department member’s tour of duty in accordance with the training provided. 
+
+2.  Any deviation from this procedure shall be immediately reported to the 
+
+department member’s immediate supervisor and shall be documented in a crime 
+
+incident report when applicable. 
+
+3.  All data recorded by the BWC is the exclusive property of the Waynesboro Police 
+
+Department.  Accessing, copying, or releasing any of this data for non-law 
+
+enforcement purposes is strictly prohibited without authorization from the Chief 
+
+of Police or his/her designee. 
+
+4.  Access to all BWC data shall be documented and periodically audited to ensure 
+
+that only authorized users are accessing the data for legitimate law enforcement 
+
+purposes. 
+
+5.  Data will be securely stored and maintained as required by law and in accordance 
+
+with the Library of Virginia requirements. 
+
+6.  Access to BWC data shall be granted to authorized users only.  It is the 
+
+responsibility of the authorized user to keep his/her user name and password 
+
+confidential. 
+
+7.  Temporary or limited access can be given to the Waynesboro Commonwealth’s 
+
+Attorney’s Office or other prosecutorial agencies associated with a prosecution 
+
+ 
+
+ 
+
+ 
+
+204 
+
+205 
+
+206 
+
+207 
+
+208 
+
+209 
+
+210 
+
+211 
+
+212 
+
+213 
+
+214 
+
+215 
+
+216 
+
+217 
+
+218 
+
+219 
+
+220 
+
+221 
+
+222 
+
+223 
+
+224 
+
+225 
+
+226 
+
+227 
+
+228 
+
+229 
+
+230 
+
+231 
+
+232 
+
+                                                   
+
+ 
+
+arising from an incident in which a Waynesboro Police Department BWC was 
+
+utilized. 
+
+8.  Evidentiary copies of recordings for court purposes can be obtained from 
+
+Evidence.Com by a supervisor. 
+
+E.  Data Retention 
+
+1.   Data from a BWC will be stored and categorized on the Evidence.Com server in 
+
+one of seven categories: 
+
+A.  Uncategorized 
+
+B.  Traffic stop 
+
+C.  Court Purposes 
+
+D.  Officer Injury 
+
+E.  Pending Review 
+
+F.  Training Demo 
+
+G.  Use of Force 
+
+2.  Uncategorized data and traffic stop data from a BWC will generally be deleted 
+
+automatically after a period of 90 days.   
+
+3.  All other data will be stored until it has served its legitimate law enforcement 
+
+purpose.  After the data has served its legitimate law enforcement purpose, it will 
+
+be deleted or retained according to the guidelines established below:   
+
+A.  Data for court purposes shall be retained until the final court proceeding has 
+
+been completed. 
+
+B.  Data regarding an officer injury will be retained indefinitely. 
+
+C.  Data that is useful for training purposes shall be retained indefinitely. 
+
+D.  Data regarding a complaint, use of force, supervisor inquiry, or internal affairs 
+
+investigation shall be retained indefinitely. 
+
+4.  Data storage time frames may be edited by the Chief of Police at any time in order 
+
+to reduce data storage costs on Evidence.com or in order to improve the efficiency 
+
+of the Evidence.com system. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                   
+
+ 
+
+F.  Supervisory Responsibilities 
+
+1.  Supervisory personnel shall ensure that department members utilizing the BWC 
+
+devices are doing so in accordance with the policies and procedures established by 
+
+the Waynesboro Police Department. 
+
+2.  Supervisors may randomly review BWC recordings to ensure that the equipment 
+
+is operating properly and that department members are using the devices 
+
+appropriately and in accordance with policy.  
+
+3.  Supervisors may randomly review BWC recordings to identify any areas in which 
+
+additional training or guidance is required. 
+
+4.  Supervisors may review BWC recordings for the purpose of training, critique, 
+
+early intervention inquiries, civil claims, administrative inquiry, and department 
+
+investigation of a complaint or any other articulable reason. 
+
+A.  Any video copied for the purposes of a Supervisory Inquiry or Internal Affairs 
+Investigation will be placed in the case file and retained in accordance with the 
+requirements set forth by the Library of Virginia and the Waynesboro Police 
+Department General Orders pertaining to Supervisory Inquiries and Internal 
+Affairs investigations.   
+
+B.  A request from an Officer, a Supervisor, or an Administrator to have a video 
+
+reviewed to dispel a complaint on an Officer can be reviewed by the following 
+people: the Officer in question, his/her immediate Supervisor, and the 
+appropriate Division Commander.  
+
+ 
+
+5.  Field training officers engaged in field training may view data captured by a BWC 
+to provide immediate training to recruit officers and to assist with the completion 
+of Daily Observation Reports (DOR) 
+ 
+
+233 
+
+234 
+
+235 
+
+236 
+
+237 
+
+238 
+
+239 
+
+240 
+
+241 
+
+242 
+
+243 
+
+244 
+
+245 
+246 
+247 
+248 
+249 
+250 
+251 
+252 
+253 
+254 
+255 
+256 
+257 
+258 
+
+259 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

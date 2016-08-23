@@ -1,0 +1,988 @@
+ 
+Re: FOIA Request / Body Camera Equipment and Policy  
+Dear Attn: FOIA Officer:  
+Aquia Harbour Police Department  
+Attn: FOIA Officer  
+1221 Washington Drive  
+Stafford, VA 22554  
+June 12, 2015  
+Records Requested  
+ 
+Please provide copies of the following records:  
+1. All policies, practices, procedures, rules, or orders concerning the use of body cameras, including: 
+(attached) 
+a. policies or procedures governing use of body cameras;  
+b. what types of data are obtained;  
+c. the conditions under which body cameras are used;  
+d. the frequency of body camera use;  
+e. the number of body camera units or systems acquired; (3 Vievu Body Cameras) 
+f. the number of officers equipped with body cameras; (We have 7 officers and 3 cameras, they wear 
+them “as available”. 
+ 
+2. All policies, practices, procedures, rules, or orders concerning the review of body camera data by 
+supervising officers or staff or civilian review personnel to ensure officer compliance with 
+department or agency policies and applicable state and federal law;  
+ 
+3. All policies, practices, procedures, rules, or orders concerning the storage of data obtained using 
+body cameras, including:  
+a. where the data is stored; (Designated air gapped computer) 
+b. how long data is stored; (automated – deletes after 90 days)  
+c. when data must be discarded; and  
+d. how much data your agency or department currently stores; (We don’t store any data beyond 90 
+days unless it is needed for court in which case it is downloaded onto a disk and housed as evidence.) 
+ 
+4. All policies, practices, procedures, rules, or orders concerning access to body camera data, 
+including:  
+a. the legal justification required before a law enforcement employee or  
+b. member of the public may access body camera data; (case by case, but generally always made 
+available to the parties involved and made available to public on case by case basis)  
+AMERICAN CIVIL LIBERTIES UNION OF VIRGINIA 701 E. FRANKLIN ST. SUITE 1412 RICHMOND, VA 23219 T/804.644.8080 WWW.ACLUVA.ORG  
+ 
+
+ 
+c. purposes for which the data may be accessed;  
+d. purposes for which the data may not be accessed;  
+e. who may access the data, what procedures they must go through to obtain access, and who must 
+authorize access; and  
+f. the existence of a system that records who accesses the data and when the data is accessed;  
+ 
+5. All policies, practices, procedures, rules, or orders concerning the sharing of data obtained through 
+body cameras, including:  
+a. what type of data1 is shared;  
+b. what databases your agency puts collected body camera data into; and Vievu storage system 
+c. third parties, governmental or private, that may access your agency’s body camera data, including 
+what procedures a third party must go through to access the data and any restrictions placed on a 
+third party regarding further sharing of your body camera data;  
+ 
+6. All agreements to share body camera data with outside agencies or departments, corporations, or 
+other entities; and (no agreement)  
+ 
+7. All training materials used to instruct members of your department or agency in body camera 
+deployment, data management, or operation of automated records systems that contain body camera 
+data to which any member of your department or agency has access, including regional or shared 
+databases.  
+ 
+Please inform me in advance if the cost of complying with this request will be greater than $50.  
+If the requested documents are available in electronic form, please e-mail them to me at 
+fknaack@acluva.org. Otherwise, please mail them to me at ACLU of Virginia, 701 F Franklin Street, 
+Suite 1412, Richmond, Virginia 23219. Please respond within five (5) business days as required by 
+FOIA. Thank you for your prompt attention to this matter. If you have questions, please contact me 
+at fknaack@acluva.org or (804) 523-2144. 
+
+ 
+
+ 
+
+I. 
+
+  
+
+ 
+
+POLICY 
+
+ 
+
+It is the policy of the department to protect and ensure the safety and welfare of our 
+citizens and department personnel. Video documentation has become an integral and 
+valued  tool  in  Law  Enforcement  for  those  agencies  that  have  adopted  patrol  car 
+mounted  cameras.  The  value  has  repeatedly  outweighed  the  equipment  and  training 
+costs  involved  with  enhanced  evidence  gathering,  report  accuracy,  complaint 
+management  and  increased  professionalism.  Thus,  wearable  video  technology  is  the 
+next  logical  step.  The  Aquia  Harbour  Police  Department  has  adopted  standard 
+operation procedures when using the on-officer camera. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+II. 
+
+PURPOSE 
+
+ 
+
+Officer safety is of paramount concern for the Aquia Harbour Police Department.  In 
+order to  
+
+             provide  enhanced  safety,  field  units  are  being  equipped  with  wearable  Video/Audio 
+systems. The VIEVU can be used to record traffic stops, incidents, suspicious and/or 
+criminal  activity.    Digital  recorded  evidence  can  greatly  enhance  a  criminal 
+investigation by providing graphics.  
+
+ 
+
+ 
+
+III. 
+
+OBJECTIVES 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The principle objectives of the On-officer camera program include: 
+
+a.   Enhancing officer safety 
+
+b.   Identifying criminal activity 
+
+c.   Identifying suspects 
+
+d    Preventing/deterring crime and public disorder 
+
+e.   Reducing and removing the fear of crime 
+
+                         f.   Improving agency accountability 
+
+g.   Simplifying incident review 
+
+h.   Enhancing new recruit and in-service training  ( post-incident use of videos) 
+
+i.   Improving Community/Media perceptions 
+
+j.   Strengthening police leadership 
+
+k.  Advancing prosecution/case resolution 
+
+l.   Enhancing officer performance and professionalism 
+
+m.  Increasing homeland security 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IV. 
+
+PROCEDURES 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. 
+
+2. 
+
+2. 
+
+When  a  VIEVU  body  camera  is  available  to  them,  patrol  officers  are 
+expected to wear them during their tour of duty.  
+ 
+The  camera  system  will  be  maintained  according  to  manufacturer’s 
+recommendations. The VIEVU wearable video camera is the only Agency 
+approved On-officer camera. 
+
+At the beginning of each tour of duty, it shall be the responsibility of the patrol 
+officer wearing the camera to insure that the camera is in working order; 
+
+ 
+
+a.   
+
+Camera  batteries  will  be  charged,  in  either  the  wall  mount  or  vehicle 
+charger.   
+
+ 
+
+ 
+
+                                      The  LED  red  light  will  go  off  when  the  charge  is  complete.  A  blinking 
+green LED light indicates that the camera is on and recording. The LED 
+will  blink  green  until  the  camera  is  turned  off.  When  the  LED  green 
+blinking light turns to a red blinking light you have about twenty percent 
+(20%) of space/power left.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. 
+
+  
+
+b.   
+
+c.    
+
+The On-officer camera will be worn on the Agency uniform in a manner 
+that ensures images in front of the officer are captured and recorded.  
+
+ The camera can record approximately four and one-half hours of video 
+per  ten  hour  shift.  Care  should  be  used  so  that  recordable  time  is  not 
+wasted. 
+
+Activation  of  the  camera  is  generally  at  the  discretion  of  the  officer,  however, 
+activation 
+ is strongly encouraged for  the following;   
+
+            a.    
+
+Traffic stops.  
+
+ 
+
+ 
+
+b.   
+
+Suspicious incidents or any other incident where officer safety may  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+                                            
+
+become an issue. i.e. Building searches, alarms, etc. 
+
+                                      
+
+ 
+
+ 
+
+c.    
+
+Domestic Violence situations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d.    
+
+Any incident which may lead to an arrest, i.e. Drunk in Public, etc. 
+
+ 
+
+e.  On scene Investigative Interviews with victims/witnesses to  include 
+        their present location or agency vehicles.   
+
+ 
+
+f.     Once activate, the camera shall not be turned off mid-altercation. However, it 
+
+       intermittently re-started to keep tape segments short.  
+
+V. 
+
+CRIME SCENE ACTIVATION 
+
+ 
+
+ Crime Scene Activation. Digitally recording evidence at a scene assists greatly in 
+ capture  of  evidence.  Therefore,  officers  are  encouraged  to  activate  their 
+ cameras  upon  arrival  and  while  securing  the  scene  pending  the 
+
+1. 
+the              
+On-officer                     
+arrival of the                                
+
+ Investigator of Evidence Technician. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+Announcement of date, time, location and purpose of the recording. 
+ 
+A capture of the general scene or of an individual. A full frame capture of the 
+person. 
+
+A  capture  showing  the  relationship  of  any  injuries  to  the  subject’s  body. 
+(privacy                       should be taken into consideration especially in the 
+case of a person with the                                    opposite gender to the 
+officer). 
+ 
+Officers are not able to  delete or edit recordings and should not attempt to 
+tamper                             
+with  the  camera’s  stored  recording.  Digital  images  that  are  relevant  for                                      
+investigative or trial purposes should be downloaded to a DVD, marked for 
+court and kept with the officer’s investigative file.  
+
+ 
+
+7. 
+
+The  officer  should  note  in  the  officer’s  incident  report  that  digital  recordings  had 
+been  taken. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+may be  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VI. 
+
+DOWNLOADING TO COMPUTER 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+At the conclusion of the officer’s tour of duty, the officer shall; 
+
+1.  
+
+Download all recordings to the designated computer at the police station. 
+
+2. 
+
+Review any pertinent recordings and request a DVD be made by a supervisor 
+
+ 
+
+ 
+
+3. 
+
+ 
+
+on specific recording pending trial. NOTE: only systems administrators can create a                                          
+
+recording of any incident. 
+
+Supervisors will make a DVD copy, and return the disk to the officer to be listed as                                            
+
+evidence.  
+
+a. 
+
+b. 
+
+c. 
+
+d. 
+
+This  master  shall  serve  as  the  permanent  record.    A  separate 
+DVD should be created for each criminal case or investigation, 
+and the DVD is copy protected 
+
+Once  the  recording  are  downloaded,  the  cameras  memory  is 
+emptied and ready for new recordings.   
+
+The  supervisor  should  confirm  that  the  digital  images  were 
+correctly                                                                      
+transferred to a blank DVD by; 
+
+Officers shall leave VIEVU cameras at the police station, at the                                                     
+completion  of  their  tour  of  duty.  The  camera  shall  be  plugged 
+into the twelve volt lighter charger for use by the next officer on 
+duty.    
+
+VII.  CONFIDENTIALITY 
+
+ 
+
+1. 
+
+Video recordings shall be conducted in a professional, ethical and legal manner. 
+
+ 
+
+2. 
+
+ 
+
+ 
+
+ 
+
+Video  surveillance  for  the  purpose  of  monitoring  work  areas,  social  areas  or 
+sensitive  areas  should  only  occur  in  special  circumstances,  and  this  surveillance 
+should 
+the 
+prevention/deterrence of illegal activity and the enhancement of safety. 
+
+the  policy’s  principle  objectives,  which 
+
+include 
+
+further 
+
+ 
+
+All  recordings  that  are  related  to,  or  of  value  to  an  investigation  are  to  be  kept 
+
+ 
+strictly                                        
+
+3. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+confidential. 
+
+4, 
+
+5, 
+
+6. 
+
+On-officer  cameras  shall  not  be  directed  through  windows  of  a  residential 
+dwelling                                           where an individual has a reasonable 
+expectation of privacy. 
+
+Copies  of 
+evidence/training purposes and shall be controlled by the Chief of Police. 
+
+recording  shall  only  be  made 
+
+investigative  and/or 
+
+for 
+
+Each  individual  officer  is  responsible  for  all  recordings  captured  by  their 
+assigned camera. 
+
+VIII.  LEGALITY 
+
+1. 
+
+The State of Virginia is a one party consent state. Therefore, only the 
+officer need           know that the recording of the encounter is taking 
+place but if asked officers are encouraged to explain the camera and the 
+purpose of it to any citizens that take an interest in it.  
+
+IX. 
+
+TRAINING 
+
+ 
+
+ 
+
+ 
+
+1.  
+
+Officers will receive in-service training on the proper use of the Agency issued 
+on-                                            officer camera. Training will include but not be 
+limited to:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+LED  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Setup and battery charging. 
+
+Uniform placement. 
+
+Recording techniques. 
+
+Weather conditions. 
+
+Camera subject bearings. 
+
+Proper care and servicing. 
+
+Downloading procedures. 
+
+Review of recordings. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+X.  
+
+FAQ 
+
+a. 
+
+b. 
+
+c. 
+
+d. 
+
+e. 
+
+f. 
+
+g. 
+
+h. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+How do I know the Vievu is recording ? 
+
+1. 
+
+ 
+
+A.        When the unit is recording, The LED light will  blink green until the unit is turned 
+
+off. 
+
+How can I tell when the battery/free space is almost used up ? 
+
+The  LED  light  will  turn  red  and  continue  blinking  when  you  have  about  20%  of                                                  
+time/space left. 
+
+How do I know when my VIEVU is fully charged ? 
+
+2. 
+
+ 
+
+A. 
+
+3. 
+
+ 
+
+A. 
+
+The LED light will show solid red when charging. When charge is complete. The 
+
+ 
+
+light will go off completely.  
+
+How long does it take to charge the battery ? 
+
+4. 
+
+ 
+
+A. 
+
+The VIEVU PVR uses a lithium ion battery. A completely dead battery will take 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+approximately three (3) hours using the wall charger. 
+
+When capacity is full, will my VIEVU stop recording or will it loop over itself ? 
+
+5. 
+
+ 
+
+A. 
+
+The camera will stop recording at full capacity and the LED light will turn red. 
+
+6. 
+
+ 
+
+A. 
+
+The time stamp is incorrect on my videos ? 
+
+All  the VIEVU  PVR’s  are set  to  GMT time  (  Greenwich  Mean Time  ) to  ensure 
+accuracy and, if needed, accountability in court. 
+
+XI. 
+
+GREENWICH MEAN TIME 
+
+ 
+
+ 
+
+1. 
+
+2. 
+
+When Virginia is  on  Eastern  Daylight  Time. (  Arrives 2:00  A,M. on the second 
+Sunday of March) it is four (4) hours behind Greenwich Mean Time. (GMT) 
+
+When Virginia is on   Eastern Standard Time.  (  Arrives 2:00 A.M. on the first  
+Sunday in November) it is five (5) hours behind Greenwich Mean Time. (GMT) 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

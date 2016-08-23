@@ -1,0 +1,414 @@
+Getting to Win-Win
+
+The Use of Body-Worn 
+
+Cameras in Virginia Policing
+
+Executive Summary
+
+ACLU of Virginia Board of Directors
+
+Executive Committee
+Jeff Kerr, President
+
+Jayne Barnard, Immediate Past President
+
+Steve Levinson, Vice President
+
+Libby Witt, Secretary
+
+Sandy Smith, Treasurer
+
+Ed Rosenthal, Legal Panel Chair
+
+Liz Gilchrist, National Board Representative
+
+Patrick Anderson
+David Baluarte
+Sheyna Burt
+Stew Dunn
+Howard Gholson
+Lavonda Graham-Williams
+Vivian Hamilton
+Jim Heilman
+Greg Hicks
+Waldo Jaquith
+Victoria Kidd
+Kim Lettner
+
+Art Miller
+James Morton
+John Neal
+Aida Pacheco
+Ron Passmore
+Jerry Peters
+Wornie Reed
+Alan Rudnick
+Jay Sinha
+Fay Slotnick
+Marion Stillson
+Leslie Vandivere
+
+Barbara Ziony
+
+ACLU of Virginia Staff
+
+Claire Guthrie Gastañaga, Executive Director
+
+Elizabeth Wong, Deputy Director
+
+Valerie Jones-Fleming, Office Manager
+
+Rebecca Glenberg, Legal Director
+Hope Amezquita, Staff Attorney
+
+Robert Poggenklass, Tony Dunn Legal Fellow
+
+Gail Deady, The Secular Society Women’s Rights Legal Fellow
+
+Samantha Artison, Paralegal
+
+Liz Musselman, Director of Philanthropy
+
+Bill Farrar, APR, Director of Public Policy and Communications
+
+Katherine Greenier, Reproductive Freedom Project Director
+Tamara Mason, Fund and Membership Development Assistant
+
+The principal author of this report is Frank Knaack, immediate past Director of Public Policy and 
+Communications of the ACLU of Virginia.  ACLU of Virginia intern Jack Lohmann made significant 
+contributions to the research and data analysis underlying the findings.  ACLU of Virginia staff mem-
+bers Rob Poggenklass, Bill Farrar, Elizabeth Wong, and Claire Guthrie Gastañaga also contributed.  
+We were fortunate to have the support and guidance of ACLU national office staff during this project, 
+including Jay Stanley and Chad Marlow. 
+
+This report is copyrighted 2015 by the ACLU Foundation of Virginia, Inc. Information from the report 
+may be used freely so long as proper attribution is made.
+
+BWCs 
+
+require 
+
+specific, 
+
+As with many technological 
+advances in policing, however, 
+the deployment of this 
+technology without proper 
+safeguards and the right 
+policies in place can turn a tool 
+meant to promote police 
+accountability into a tool that 
+expands the surveillance state. 
+
+Getting to Win-Win: Executive Summary 
+ 
+Body  worn  cameras  (BWCs)  are  cameras  worn  on 
+police officers’ bodies that record audio and video of 
+officers’ 
+interactions  with  the  public  from  the 
+officers’  perspective.  Many  of  the  issues  of  data 
+retention  and  access  associated  with  use  of  BWCs 
+are  largely  the  same  as  with  dash  cameras,  aerial 
+surveillance  video  collected  by  drones,  and  data 
+from any other law enforcement deployed recording 
+devices. 
+special 
+consideration, however, because they can be used to 
+record  individuals  in  public  and  private  settings 
+without  the  individual  or  the  public’s  knowledge.  Moreover,  their  ability  to  provide  the 
+“officer’s eye view” of an interaction with a member or members of the public can make the 
+data they acquire of particular interest to the public when either the conduct of police or 
+community  members  is  in  question.  As  with  many  technological  advances  in  policing, 
+however,  the  deployment  of  this  technology  without  proper  safeguards  and  the  right 
+policies  in  place  can  turn  a  tool  meant  to  promote  police  accountability  into  a  tool  that 
+expands the surveillance state.  
+ 
+On  May  1,  2015,  the  U.S.  Department  of  Justice  announced  the  establishment  of  a  $20 
+million  Body-Worn  Cameras  Pilot  Partnership  Program.1  It  followed  the  rush  of 
+departments seeking to obtain and deploy BWCs after the shooting death of Michael Brown 
+in Ferguson, Missouri.2 Some touted BWCs as the solution to the problem of police violence 
+in America.3 While deployment of BWCs will not end police violence, it has the potential to 
+help  law  enforcement  departments  become  more  transparent,  accountable,  and  trusted, 
+but if, and only if, the right policies are in place to guide deployment.  
+ 
+Virginia has followed the post-Ferguson trend toward increased use of BWCs.4 Indeed, five 
+Virginia  localities  (the  cities  of  Newport  News,  Waynesboro,  Lynchburg,  and  Fairfax  and 
+Dinwiddie  County)  have  now  received  $500,000  in  grants  under  the  federal  partnership 
+program. 
+ 
+Given  the  public  interest  in  assuring  deployment  of  BWCs  serves  both  the  interests  of 
+Virginians and the police who serve them, the ACLU of Virginia initiated a project to gather 
+and report  to  the  public information  on the  use  of BWCs by law enforcement agencies in 
+the  Commonwealth.  That  project  has  now  led  to  the  publication  of  this  report  and 
+recommendations regarding the use of BWCs in Virginia.  
+ 
+To  understand  the  use  of  BWCs  in  Virginia,  the  ACLU  of  Virginia  sent  a  Freedom  of 
+Information  Act  (FOIA)  request  to  368  local  law  enforcement  agencies  to  collect  existing 
+policies for review. We received and reviewed fifty-nine local policies in response to these 
+requests.  For  more  information  on  the  methodology  used  to  gather  and  review  the  data, 
+please see the Methodology section of this report below.   
+
+ 
+
+1 
+
+We  also  reviewed  the  Department  of  Criminal  Justice  Services’  “model”  BWC  Policy 
+(developed  with  the  participation  of  law  enforcement  but  no  citizen  stakeholder 
+input)(DCJS  BWC  Policy)  that  was  presented  in  draft  form  to  the  Law  Enforcement 
+Technology subpanel of the Secure Commonwealth Panel at its meeting on September 15, 
+2015. The DCJS BWC Policy is attached to the report as Appendix A. 
+ 
+
+BWC implementation in 
+Virginia is inconsistent at 
+best, chaotic at worst. 
+There are vast disparities 
+from jurisdiction to 
+jurisdiction that make it 
+difficult, if not impossible, 
+for Virginians to know how 
+BWCs are being used and 
+what their rights are. 
+
+The ACLU of Virginia has determined from the review of 
+existing local policies and the “model” proposed by DCJS 
+that  BWC  implementation  in  Virginia  is  inconsistent  at 
+best,  chaotic  at  worst.  There  are  vast  disparities  from 
+jurisdiction  to  jurisdiction  that  make  it  difficult,  if  not 
+impossible, for Virginians to know how BWCs are being 
+used  and  what  their  rights  are.  Virginians  now  face  a 
+bewildering array of policies governing the use of BWCs, 
+as well as the retention and disclosure of the personally 
+identifiable  data  acquired  through  their  use.  This 
+situation  is  further  complicated  by  an  advisory  opinion 
+issued  by  the  Virginia  Freedom  of  Information  Act 
+Advisory Council on October 2, 2015. The advisory opinion concludes that  FOIA imposes 
+different disclosure rules on local police and Sheriffs than apply to other law enforcement 
+agencies,  and  it    includes  no  discussion  of  the  possible  interplay  between  FOIA  and  the 
+Government  Data  Collection  and  Dissemination  Practices  Act  with  regard  to  law 
+enforcement collection and dissemination of personally identifiable information.5  
+ 
+Key  gaps  between  policy  and  principle  identified  in  our  review  that  threaten  individual 
+liberty include: 
+
+  Only 3% of BWC policies now in place require officers to inform the public that 
+they  are  being  recorded.  The  DCJS  BWC  Policy  only  requires  officers  to  inform 
+the public where “practical.” 
+
+  Only 5% of BWC policies now in place require officers to allow a victim of crime 
+to decline to be filmed. The DCJS BWC Policy does not require officers to allow a 
+victim to decline to be filmed. 
+
+  Only  3%  of  BWC  policies  now  in  place  prohibit  the  use  of  BWC  to  record  First 
+Amendment protected activities such as peaceful protests. The DCJS BWC Policy 
+does not prohibit filming First Amendment-protected activities. 
+
+  Only  5%  of  BWC  policies  now  in  place  address  BWC  usage  on  school  grounds. 
+
+The DCJS BWC Policy does not address usage of BWCs on school grounds. 
+
+  Only  12%  of  BWC  polices  now  in  place  prohibit  the  use  of  BWCs  in  a  private 
+residence if the resident objects. The DCJS BWC Policy does not prohibit use of 
+BWCs in a private residence if the resident objects. 
+
+ 
+To address these gaps and bring uniformity to the implementation of BWCs across Virginia, 
+this report sets out arguments in favor of statewide uniformity and recommended policies 
+in four key areas. These include: 
+
+ 
+
+2 
+
+  Rules  governing  when 
+
+law  enforcement  officers  are  recording  civilian 
+
+encounters and what notice requirements govern their deployment; 
+
+  Rules governing how long data is stored; 
+  Rules  and  laws  governing  individual  and  public  access  to  data  collected  by 
+
+BWCs; and 
+
+  Rules  governing  consequences  of  failure  to  comply  with  provisions  of  policies 
+assuring transparency and accountability in the use of BWCs, including possible 
+decertification as a law enforcement officer. 
+
+ 
+Proponents of BWCs argue that they can serve as a tool to 
+increase  law  enforcement  transparency,  accountability, 
+and trust. The ACLU of Virginia believes that the decision 
+whether to acquire and deploy BWCs should be made by 
+law  enforcement  agencies  with 
+local  and  state 
+appropriate 
+the 
+communities  they  serve.  At  the  same  time,  however,  the 
+ACLU  of  Virginia  believes  strongly  that  deployment  of 
+BWCs can serve the interests of police and the public only 
+if proper policies are in place to guide their use. The ACLU of Virginia has advocated before 
+the Fairfax County Ad Hoc Police Review Commission and the Law Enforcement Subpanel 
+of  the  Secure  Commonwealth  Panel  that  the  following  principles  guide  law  enforcement 
+use of BWCs:  
+
+The ACLU of Virginia 
+believes strongly that 
+deployment of BWCs can 
+serve the interests of 
+police and the public only 
+if proper policies are in 
+place to guide their use. 
+
+participation 
+
+input 
+
+and 
+
+from 
+
+  Policies  must  prohibit  use  of  body-worn  cameras  to  gather  information  about 
+people surreptitiously. They should not be turned on at public events to surveil 
+those in attendance. 
+ 
+
+  Only officers with arrest authority should be authorized to use BWCs.  
+
+ 
+
+  Officers must be required to notify people when the cameras are on and they are 
+
+being recorded.  
+ 
+
+  Policies should protect the privacy of officers by making clear that cameras are 
+
+only required to be turned on during defined interactions with the public. 
+ 
+
+  Policies  should  be  explicit  about  when  cameras  are  to  be  turned  on  and  when 
+and whether they can be turned off. Officers should have no discretion to deviate 
+from departmental policy. 
+ 
+
+  Policies  should  require  that  every  officer  wearing  cameras  turn  the  recording 
+device on at the inception of every law enforcement encounter with a member of 
+the  public,  including  stops,  frisks,  searches,  arrests,  consensual  searches  and 
+interviews,  enforcement  actions  and  any  encounter 
+that  becomes 
+confrontational or in any way hostile. 
+ 
+
+ 
+
+3 
+
+  People  who  are  being  filmed  should  have  the  right  to  request  that  BWCs  be 
+turned off when the officer is entering their home or business, hospital room or 
+other private location or when they are seeking to make an anonymous report of 
+a  crime  or  claim  to  be  a  victim  of  crime.  Their  request  should  be  filmed.  In 
+addition,  policies  should  include  specific  guidelines  for  recording  juveniles  and 
+in schools.  
+ 
+
+  Strict policies should guide how the recorded information is uploaded from the 
+
+individual camera and stored so that videos cannot be manipulated or erased. 
+ 
+
+ 
+
+  Data  should  be  retained  only  as  long  as  necessary  for  intended  purposes.  It 
+should  be  maintained  and  destroyed  pursuant  to  applicable  law  and  record 
+retention policies and never by the officer involved in the recording.  
+ 
+
+  Videos of specific value  should be  “flagged” and retained for as  long  as  needed 
+for  personnel  actions  or  criminal  investigations.  Those  with  no  ascertainable 
+value should be deleted in accordance with a published schedule except on the 
+request  of  a  data  subject.  Flagging  should  occur  automatically  for  incidents 
+involving  the  use  of  force,  leading  to  detention,  summons,  or  arrest,  and/or 
+resulting in a citizen complaint. 
+ 
+
+  Policies should provide access to the videos by the people recorded for as long as 
+the  videos  are  maintained  by  the  government/law  enforcement.  Properly 
+redacted footage should be made available to the public in accordance with well-
+defined guidelines, where the public interest would be served by disclosure.  
+ 
+
+  Failure  to  comply  with  the  policies  governing  use  of  the  cameras  and  videos 
+
+should result in appropriate disciplinary action, including termination. 
+
+As a whole, the 59 local agency 
+BWC policies and the DCJS 
+BWC Policy that the ACLU of 
+Virginia analyzed fail to ensure 
+that BWCs are deployed in a 
+way that promotes 
+transparency, accountability, 
+and trust. 
+
+ 
+Adherence  to  these  principles  is  essential  to  ensure 
+that  deployment  of  body  worn  cameras  by  state  or 
+local police agencies is truly a win-win for the police 
+and the public alike. Unfortunately, our review found 
+that  neither  the  local  policies  now  in  place  nor  the 
+DCJS BWC Policy comply fully with these principles. 
+In addition, in some instances, current FOIA law may 
+stand  in  the  way  of  adopting  local  policies  that 
+comply with these principles in some instances. 
+ 
+
+While some individual policies do a better job in addressing some or all of these principles 
+than others, as a whole, the 59 local agency BWC policies and the DCJS BWC Policy that the 
+ACLU  of  Virginia  analyzed  fail  to  ensure  that  BWCs  are  deployed  in  a  way  that  promotes 
+transparency,  accountability,  and  trust.  The  policies  often  do  not  articulate  clearly  what 
+actions and events should be filmed, and they miss the mark when it comes to protecting 
+the  privacy  of  individuals  in  sensitive  situations.  They  do  not  properly  safeguard  footage 
+
+ 
+
+4 
+
+from inappropriate sharing.  They fail to provide ordinary citizens the access to  their own 
+data to which they are entitled. Finally, they lack mechanisms to hold officers accountable 
+for intentionally or unintentionally violating policy.  
+ 
+To  help  solve  these  problems,  the  ACLU  of  Virginia  developed  its  own  Model  Body  Worn 
+Camera Policy that includes the elements we believe are essential to getting to “win-win,” 
+that  is,  ensuring  that  use  of  BWCs  serves  the  interest  of  both  law  enforcement  and  the 
+public protecting liberty and privacy as  well as assuring accountability and transparency. 
+The  ACLU  Model  Policy  is  attached  to  the  report  as  Appendix  B.  We  recognize  that 
+implementing  our  Model  policy  and  getting  to  win-win  may  require  changes  in  FOIA  and 
+the  Government  Data  Collection  and  Dissemination  Practices  Act  and  adoption  of  laws 
+requiring  statewide  uniformity  on  certain  policy  elements  to  best  protect  individual 
+privacy and the public’s right to know. Nonetheless, we believe that Virginia can only get to 
+“win-win”  in  the  use  of  BWCs  if  these  changes  are  made  and  uniform  policies  adopted 
+statewide.  
+ 
+                                                           
+1 Justice Department Announces $20 Million in Funding to Support Body-Worn Camera Pilot Program, 
+Department of Justice, May 1, 2015 available at http://www.justice.gov/opa/pr/justice-department-
+announces-20-million-funding-support-body-worn-camera-pilot-program.  
+2 Alan Gomez, Ferguson, police rush to buy body cameras, USA Today, Oct. 11, 2014, available at 
+http://www.usatoday.com/story/news/nation/2014/10/11/police-body-cameras-ferguson-privacy-
+concerns/16587679/.  
+3 Michael McAuliffe, Police Body Cameras Seen As A Fix For Ferguson-Style Killings, Huffington Post, 
+Nov. 25, 2014, available at http://www.huffingtonpost.com/2014/11/25/ferguson-body-
+cameras_n_6221558.html.  
+4 Nick Ochsner, Who's watching you? Police struggle to pay for more cameras, 13News Now, Feb. 9, 2015, 
+available at http://www.13newsnow.com/story/news/local/13news-now-investigates/2015/02/09/more-
+police-cameras/23134669/.  
+5 See Virginia Freedom on Information Advisory Council advisory opinion issued to Sterling E. Rives, III, Hanover 
+County Attorney, on October 2, 2015 available online at http://foiacouncil.dls.virginia.gov/ops/welcome.htm 
+
+ 
+
+5 
+
+
