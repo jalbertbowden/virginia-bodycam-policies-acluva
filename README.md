@@ -72,3 +72,6 @@
 [York-Poquoson Sheriff's Office](https://www.acluva.org/sites/default/files/wp-content/uploads/2015/09/2015York-PoquosonSOPolicy.pdf)  	
 [Getting to Win-Win Full Report (2015).pdf](https://acluva.org/sites/default/files/wp-content/uploads/2015/09/2015GettingtoWinWinFinal.pdf)  
 [Getting to Win-Win Executive Summary (2015).pdf](https://acluva.org/sites/default/files/wp-content/uploads/2015/09/2015GettingtoWinWinExecSummaryFinal.pdf)  
+
+## Reading 
+[ACLU: Chaotic mesh of body camera policies in Virginia](https://www.dailypress.com/news/politics/dp-nws-body-cameras-state-20151026-story.html)  
