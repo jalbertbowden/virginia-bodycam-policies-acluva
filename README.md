@@ -75,3 +75,5 @@
 
 ## Reading 
 [ACLU: Chaotic mesh of body camera policies in Virginia](https://www.dailypress.com/news/politics/dp-nws-body-cameras-state-20151026-story.html)  
+[General Cuccinelli Issues Formal Opinion on Retention of LPR Data by LE Agencies](http://web.archive.org/web/20171203045517/http://vachiefs.org/index.php/news/item/cuccinelli_issues_formal_opinion_on_retention_of_lpr_data_by_le_agencies)  
+[AG Cuccinelli's Opinion on LPR](https://www.oag.state.va.us/files/Opinions/2013/12-073_Flaherty.pdf)
